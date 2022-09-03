@@ -1,9 +1,9 @@
 import os
-from funciones import url_partidos_jugados
+from funciones import url_partidos_jugados, jornadas_jugadas_funcion
 import pandas as pd
 os.chdir(os.path.dirname(__file__))
 
-jornadas_jugadas = 2
+jornadas_jugadas = jornadas_jugadas_funcion('https://www.jornadaperfecta.com/puntos/')
 
 url_lesionados = 'https://www.jornadaperfecta.com/lesionados/'
 

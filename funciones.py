@@ -154,7 +154,11 @@ def creacion_df_sofaspicas(lista1,lista2,lista3):
     df_final["Puntos Medias"] = np.where(df_final["Titular"] == np.nan, np.nan, round((df_final['Puntos Picas']+df_final['Puntos Sofas']+0.2)/2))
     return df_final
 
-
+def jornadas_jugadas_funcion(url):
+    soup = obtener_soup(url)
+    soup_nueva = soup.find_all('select', class_='push-right')
+    valor = int(soup_nueva[0].find('option')['value']) - 1
+    return valor
 
 def obtencion_listas_consolidacion(df, campo, tipo):
     lista_datos = []
@@ -167,11 +171,11 @@ def obtencion_listas_consolidacion(df, campo, tipo):
             lista_datos.append(valor)            
     return lista_datos
 
-def obtencion_listas_finales(df, campo, tipo):
+def obtencion_listas_finales(df, campo, tipo, jornadas_played):
     lista_datos = []
     for a in range(len(df)):
         if tipo == 'promedio':
-            valor = sum(df.loc[a,campo])/2
+            valor = sum(df.loc[a,campo])/jornadas_played
         elif tipo == 'suma':
             valor = sum(df.loc[a,campo])
         elif tipo == 'forma':
@@ -180,6 +184,7 @@ def obtencion_listas_finales(df, campo, tipo):
     return lista_datos    
 
 def elaboracion_df_compilados(df, tipo):
+    jornadas_jugadas = jornadas_jugadas_funcion('https://www.jornadaperfecta.com/puntos/')
     n = 0 
     Dataframe = pd.DataFrame()
     if tipo == 'normal':
@@ -198,20 +203,20 @@ def elaboracion_df_compilados(df, tipo):
             if i == 'Id':
                 Dataframe[i]=df[i]
             elif i == 'Titular':
-                lista = obtencion_listas_finales(df, campo =i , tipo = 'promedio')               
+                lista = obtencion_listas_finales(df, campo =i , tipo = 'promedio',jornadas_played=jornadas_jugadas)               
                 Dataframe['% ' + i] = lista
                 Dataframe['% ' + i] = Dataframe['% ' + i].apply(lambda x:format(x, '.0%'))
             elif i == 'Jugado' or i == 'Puntos Medias':
-                lista = obtencion_listas_finales(df, campo =i , tipo = 'suma')               
+                lista = obtencion_listas_finales(df, campo =i , tipo = 'suma',jornadas_played=jornadas_jugadas)               
                 Dataframe['Total ' + i] = lista
-                lista = obtencion_listas_finales(df, campo =i , tipo = 'forma')
+                lista = obtencion_listas_finales(df, campo =i , tipo = 'forma',jornadas_played=jornadas_jugadas)
                 Dataframe['Forma ' + i] = lista
                 if i == 'Jugado':
-                    lista = obtencion_listas_finales(df, campo =i , tipo = 'promedio')               
+                    lista = obtencion_listas_finales(df, campo =i , tipo = 'promedio',jornadas_played=jornadas_jugadas)               
                     Dataframe['% ' + i] = lista
                     Dataframe['% ' + i] = Dataframe['% ' + i].apply(lambda x:format(x, '.0%'))
             elif i == 'Puntos Picas' or i == 'Puntos Sofas':                
-                lista = obtencion_listas_finales(df, campo =i , tipo = 'suma')               
+                lista = obtencion_listas_finales(df, campo =i , tipo = 'suma',jornadas_played=jornadas_jugadas)               
                 Dataframe['Total ' + i] = lista
         Dataframe = pd.merge(df,Dataframe)
     return Dataframe
