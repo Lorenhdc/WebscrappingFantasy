@@ -1,494 +1,494 @@
 Nombre,Posicion,Equipo,Estado,% Titular,% Jugado,Forma Jugado,Promedio Picas,Promedio Sofas,Promedio Media,Total Puntos Medias,Forma Puntos Medias,Valor [En miles],Comparativo
-Sergio Herrera,PT,Osasuna,Disponible,100%,100%,3,2.0,3.6666666666666665,3.0,9.0,9.0,3030.0,0.99
-David García,DF,Osasuna,Disponible,100%,100%,3,4.666666666666667,5.0,5.333333333333333,16.0,16.0,5210.0,1.024
-Juan Cruz,DF,Osasuna,Disponible,100%,100%,3,3.3333333333333335,3.3333333333333335,3.6666666666666665,11.0,11.0,1280.0,2.865
-Rubén Peña,DF,Osasuna,Lesionado,100%,100%,3,4.666666666666667,4.666666666666667,5.0,15.0,15.0,2620.0,1.908
-Unai García,DF,Osasuna,Disponible,100%,100%,3,3.3333333333333335,4.666666666666667,4.333333333333333,13.0,13.0,1540.0,2.814
-Aimar Oroz,MC,Osasuna,Disponible,100%,100%,3,7.0,4.666666666666667,6.0,18.0,18.0,3370.0,1.78
+Sergio Herrera,PT,Osasuna,Disponible,100%,100%,3,2.0,3.67,3.0,9.0,9.0,3010.0,0.997
+David García,DF,Osasuna,Disponible,100%,100%,3,4.67,5.0,5.33,16.0,16.0,5200.0,1.025
+Juan Cruz,DF,Osasuna,Disponible,100%,100%,3,3.33,3.33,3.67,11.0,11.0,1300.0,2.823
+Rubén Peña,DF,Osasuna,Lesionado,100%,100%,3,4.67,4.67,5.0,15.0,15.0,2590.0,1.931
+Unai García,DF,Osasuna,Disponible,100%,100%,3,3.33,4.67,4.33,13.0,13.0,1560.0,2.776
+Aimar Oroz,MC,Osasuna,Disponible,100%,100%,3,7.0,4.67,6.0,18.0,18.0,3370.0,1.78
 Kike Barja,MC,Osasuna,Disponible,33%,67%,2,2.0,1.5,2.0,4.0,4.0,470.0,4.255
-Moi Gómez,MC,Osasuna,Disponible,100%,100%,3,6.0,6.333333333333333,6.333333333333333,19.0,19.0,4810.0,1.317
-Moncayola,MC,Osasuna,Disponible,100%,100%,3,3.3333333333333335,4.333333333333333,4.333333333333333,13.0,13.0,3780.0,1.146
-Torró,MC,Osasuna,Disponible,100%,100%,3,4.666666666666667,3.6666666666666665,4.333333333333333,13.0,13.0,3170.0,1.367
-Chimy Ávila,DL,Osasuna,Disponible,100%,100%,3,6.666666666666667,7.0,7.0,21.0,21.0,7630.0,0.917
-Nacho Vidal,DF,Osasuna,Disponible,33%,100%,3,2.0,3.0,2.6666666666666665,8.0,8.0,2070.0,1.288
-Brasanac,MC,Osasuna,Disponible,0%,67%,2,2.0,4.0,3.0,6.0,6.0,1120.0,2.679
-Manu Sánchez,DF,Osasuna,Disponible,0%,67%,2,2.0,3.5,3.0,6.0,6.0,1360.0,2.206
+Moi Gómez,MC,Osasuna,Disponible,100%,100%,3,6.0,6.33,6.33,19.0,19.0,4850.0,1.305
+Moncayola,MC,Osasuna,Disponible,100%,100%,3,3.33,4.33,4.33,13.0,13.0,3760.0,1.152
+Torró,MC,Osasuna,Disponible,100%,100%,3,4.67,3.67,4.33,13.0,13.0,3150.0,1.375
+Chimy Ávila,DL,Osasuna,Disponible,100%,100%,3,6.67,7.0,7.0,21.0,21.0,7670.0,0.913
+Nacho Vidal,DF,Osasuna,Disponible,33%,100%,3,2.0,3.0,2.67,8.0,8.0,2060.0,1.296
+Brasanac,MC,Osasuna,Disponible,0%,67%,2,2.0,4.0,3.0,6.0,6.0,1110.0,2.703
+Manu Sánchez,DF,Osasuna,Disponible,0%,67%,2,2.0,3.5,3.0,6.0,6.0,1350.0,2.222
 Pablo Ibáñez,MC,Osasuna,Disponible,0%,33%,1,2.0,3.0,3.0,3.0,3.0,160.0,18.75
-Kike García,DL,Osasuna,Disponible,0%,100%,3,4.333333333333333,5.666666666666667,5.0,15.0,15.0,2190.0,2.283
-Bono,PT,Sevilla,Disponible,100%,100%,3,4.666666666666667,2.3333333333333335,3.6666666666666665,11.0,11.0,4720.0,0.777
-Acuña,DF,Sevilla,Disponible,67%,67%,2,3.0,6.0,4.5,9.0,9.0,3830.0,1.175
-Jesús Navas,DF,Sevilla,Disponible,67%,67%,2,0.0,0.5,0.5,1.0,1.0,2550.0,0.196
-Rekik,DF,Sevilla,Lesionado,100%,100%,3,3.6666666666666665,5.0,4.666666666666667,14.0,14.0,2180.0,2.141
-Fernando,MC,Sevilla,Disponible,100%,100%,3,0.6666666666666666,5.333333333333333,3.3333333333333335,10.0,10.0,4310.0,0.773
+Kike García,DL,Osasuna,Disponible,0%,100%,3,4.33,5.67,5.0,15.0,15.0,2190.0,2.283
+Bono,PT,Sevilla,Disponible,100%,100%,3,4.67,2.33,3.67,11.0,11.0,4690.0,0.783
+Acuña,DF,Sevilla,Disponible,67%,67%,2,3.0,6.0,4.5,9.0,9.0,3820.0,1.178
+Jesús Navas,DF,Sevilla,Disponible,67%,67%,2,0.0,0.5,0.5,1.0,1.0,2510.0,0.199
+Rekik,DF,Sevilla,Lesionado,100%,100%,3,3.67,5.0,4.67,14.0,14.0,2090.0,2.234
+Fernando,MC,Sevilla,Disponible,100%,100%,3,0.67,5.33,3.33,10.0,10.0,4290.0,0.776
 Gudelj,MC,Sevilla,Disponible,33%,33%,1,-2.0,4.0,1.0,1.0,1.0,270.0,3.704
-Papu Gómez,MC,Sevilla,Disponible,100%,100%,3,3.3333333333333335,5.333333333333333,4.666666666666667,14.0,14.0,4780.0,0.976
-Tecatito,MC,Sevilla,Lesionado,33%,33%,1,-2.0,2.0,0.0,0.0,0.0,2430.0,0.0
-Thomas Delaney,MC,Sevilla,Disponible,33%,67%,2,2.0,4.0,3.5,7.0,7.0,1020.0,3.431
-Rafa Mir,DL,Sevilla,Disponible,100%,100%,3,3.0,3.6666666666666665,3.6666666666666665,11.0,11.0,3960.0,0.926
-Erik Lamela,MC,Sevilla,Disponible,67%,100%,3,2.0,3.6666666666666665,3.0,9.0,9.0,3120.0,0.962
-En-Nesyri,DL,Sevilla,Disponible,0%,100%,3,0.6666666666666666,2.3333333333333335,1.6666666666666667,5.0,5.0,3230.0,0.516
-Alex Telles,DF,Sevilla,Disponible,33%,100%,3,2.0,3.6666666666666665,3.3333333333333335,10.0,10.0,2950.0,1.13
-Rakitic,MC,Sevilla,Disponible,0%,67%,2,0.0,2.5,1.5,3.0,3.0,2330.0,0.644
-Marchesín,PT,Celta,Disponible,100%,100%,3,3.3333333333333335,2.3333333333333335,3.0,9.0,9.0,2940.0,1.02
-Aidoo,DF,Celta,Disponible,100%,100%,3,2.0,3.0,2.6666666666666665,8.0,8.0,1650.0,1.616
-Galán,DF,Celta,Disponible,100%,100%,3,6.0,2.6666666666666665,4.333333333333333,13.0,13.0,5550.0,0.781
-Hugo Mallo,DF,Celta,Disponible,100%,100%,3,3.3333333333333335,2.6666666666666665,3.0,9.0,9.0,2410.0,1.245
-Unai Núñez,DF,Celta,Disponible,100%,100%,3,3.3333333333333335,4.0,4.0,12.0,12.0,2490.0,1.606
+Papu Gómez,MC,Sevilla,Disponible,100%,100%,3,3.33,5.33,4.67,14.0,14.0,4730.0,0.987
+Tecatito,MC,Sevilla,Lesionado,33%,33%,1,-2.0,2.0,0.0,0.0,0.0,2360.0,0.0
+Thomas Delaney,MC,Sevilla,Disponible,33%,67%,2,2.0,4.0,3.5,7.0,7.0,1010.0,3.465
+Rafa Mir,DL,Sevilla,Disponible,100%,100%,3,3.0,3.67,3.67,11.0,11.0,3900.0,0.941
+Erik Lamela,MC,Sevilla,Disponible,67%,100%,3,2.0,3.67,3.0,9.0,9.0,3110.0,0.965
+En-Nesyri,DL,Sevilla,Disponible,0%,100%,3,0.67,2.33,1.67,5.0,5.0,3190.0,0.524
+Alex Telles,DF,Sevilla,Disponible,33%,100%,3,2.0,3.67,3.33,10.0,10.0,2910.0,1.144
+Rakitic,MC,Sevilla,Disponible,0%,67%,2,0.0,2.5,1.5,3.0,3.0,2310.0,0.649
+Marchesín,PT,Celta,Disponible,100%,100%,3,3.33,2.33,3.0,9.0,9.0,2930.0,1.024
+Aidoo,DF,Celta,Disponible,100%,100%,3,2.0,3.0,2.67,8.0,8.0,1690.0,1.58
+Galán,DF,Celta,Disponible,100%,100%,3,6.0,2.67,4.33,13.0,13.0,5560.0,0.779
+Hugo Mallo,DF,Celta,Disponible,100%,100%,3,3.33,2.67,3.0,9.0,9.0,2430.0,1.235
+Unai Núñez,DF,Celta,Disponible,100%,100%,3,3.33,4.0,4.0,12.0,12.0,2560.0,1.562
 Augusto Solari,MC,Celta,Disponible,33%,67%,2,2.0,3.5,3.0,6.0,6.0,380.0,7.895
-Fran Beltrán,MC,Celta,Disponible,100%,100%,3,4.666666666666667,3.3333333333333335,4.0,12.0,12.0,3310.0,1.208
-Óscar,MC,Celta,Disponible en observación,100%,100%,3,3.3333333333333335,5.0,4.333333333333333,13.0,13.0,3760.0,1.152
-Franco Cervi,DL,Celta,Disponible,100%,100%,3,2.0,3.6666666666666665,3.0,9.0,9.0,1920.0,1.562
-Gonçalo Paciência,DL,Celta,Lesionado,67%,100%,3,5.666666666666667,4.666666666666667,5.333333333333333,16.0,16.0,3640.0,1.465
-Iago Aspas,DL,Celta,Disponible,100%,100%,3,11.666666666666666,10.0,11.333333333333334,34.0,34.0,16240.0,0.698
+Fran Beltrán,MC,Celta,Disponible,100%,100%,3,4.67,3.33,4.0,12.0,12.0,3320.0,1.205
+Óscar,MC,Celta,Disponible en observación,100%,100%,3,3.33,5.0,4.33,13.0,13.0,3830.0,1.131
+Franco Cervi,DL,Celta,Disponible,100%,100%,3,2.0,3.67,3.0,9.0,9.0,1960.0,1.531
+Gonçalo Paciência,DL,Celta,Lesionado,67%,100%,3,5.67,4.67,5.33,16.0,16.0,3440.0,1.549
+Iago Aspas,DL,Celta,Disponible,100%,100%,3,11.67,10.0,11.33,34.0,34.0,16380.0,0.692
 Tapia,MC,Celta,Disponible,67%,100%,3,2.0,4.0,3.0,9.0,9.0,1330.0,2.256
-Carles Pérez,DL,Celta,Disponible,33%,100%,3,2.0,3.6666666666666665,3.3333333333333335,10.0,10.0,2700.0,1.235
-Mingueza,DF,Celta,Disponible,0%,33%,1,-2.0,-6.0,-4.0,-4.0,-4.0,1050.0,-3.81
-Lecomte,PT,Espanyol,Disponible,100%,100%,3,-1.3333333333333333,0.6666666666666666,0.0,0.0,0.0,2140.0,0.0
-Brian Olivan,DF,Espanyol,Disponible,100%,100%,3,3.3333333333333335,3.0,3.3333333333333335,10.0,10.0,1510.0,2.208
-Cabrera,DF,Espanyol,Disponible,100%,100%,3,2.0,4.666666666666667,3.6666666666666665,11.0,11.0,2550.0,1.438
-Calero,DF,Espanyol,Disponible,67%,100%,3,2.0,3.6666666666666665,3.0,9.0,9.0,680.0,4.412
-Óscar Gil,DF,Espanyol,Disponible,100%,100%,3,2.0,1.0,1.6666666666666667,5.0,5.0,1270.0,1.312
-Sergi Gómez,DF,Espanyol,Disponible,67%,67%,2,-3.0,-1.0,-1.5,-3.0,-3.0,860.0,-1.744
-Darder,MC,Espanyol,Disponible,100%,100%,3,4.666666666666667,5.333333333333333,5.0,15.0,15.0,5650.0,0.885
-Nicolás Melamed,MC,Espanyol,Disponible,67%,100%,3,2.6666666666666665,2.3333333333333335,2.6666666666666665,8.0,8.0,1530.0,1.743
-Vinicius Souza,MC,Espanyol,Disponible,100%,100%,3,3.3333333333333335,4.333333333333333,4.0,12.0,12.0,2760.0,1.449
-Joselu,DL,Espanyol,Disponible,100%,100%,3,6.666666666666667,8.666666666666666,8.0,24.0,24.0,9390.0,0.852
-Edu Expósito,MC,Espanyol,Disponible,100%,100%,3,4.666666666666667,7.333333333333333,6.333333333333333,19.0,19.0,3840.0,1.649
-Asenjo,PT,Real Valladolid,Disponible,67%,67%,2,0.0,-0.5,0.0,0.0,0.0,2300.0,0.0
-El Yamiq,DF,Real Valladolid,Disponible,67%,67%,2,-1.0,5.5,2.5,5.0,5.0,1360.0,1.838
-Escudero,DF,Real Valladolid,Disponible,100%,100%,3,0.6666666666666666,1.0,1.3333333333333333,4.0,4.0,1420.0,0.939
-Joaquín Fernández,DF,Real Valladolid,Disponible,67%,100%,3,0.6666666666666666,2.0,1.6666666666666667,5.0,5.0,1180.0,1.412
-Luis Pérez,DF,Real Valladolid,Disponible,100%,100%,3,3.3333333333333335,1.6666666666666667,2.6666666666666665,8.0,8.0,1520.0,1.754
-Álvaro Aguado,MC,Real Valladolid,Disponible,100%,100%,3,3.3333333333333335,4.0,4.0,12.0,12.0,2310.0,1.732
-Monchu,MC,Real Valladolid,Disponible,67%,100%,3,0.6666666666666666,2.6666666666666665,1.6666666666666667,5.0,5.0,1020.0,1.634
-Roque Mesa,MC,Real Valladolid,Disponible,67%,100%,3,2.0,2.6666666666666665,2.6666666666666665,8.0,8.0,2320.0,1.149
-Gonzalo Plata,DL,Real Valladolid,Disponible,33%,33%,1,2.0,2.0,2.0,2.0,2.0,2220.0,0.901
-Sergio León,DL,Real Valladolid,Disponible,33%,100%,3,2.0,2.6666666666666665,2.6666666666666665,8.0,8.0,1070.0,2.492
-Iván Sánchez,MC,Real Valladolid,Disponible,67%,100%,3,2.0,4.333333333333333,3.3333333333333335,10.0,10.0,1850.0,1.802
-Kike Perez,MC,Real Valladolid,Disponible,67%,100%,3,3.3333333333333335,3.3333333333333335,3.6666666666666665,11.0,11.0,1010.0,3.63
-Óscar Plano,MC,Real Valladolid,Disponible,0%,100%,3,3.3333333333333335,3.6666666666666665,3.6666666666666665,11.0,11.0,1290.0,2.842
-Olaza,DF,Real Valladolid,Disponible,0%,67%,2,2.0,1.5,2.0,4.0,4.0,770.0,2.597
-Rulli,PT,Villarreal,Disponible,100%,100%,3,7.333333333333333,9.666666666666666,8.666666666666666,26.0,26.0,5160.0,1.68
-Albiol,DF,Villarreal,Disponible,100%,100%,3,4.666666666666667,5.0,5.0,15.0,15.0,4480.0,1.116
-Foyth,DF,Villarreal,Lesionado,100%,100%,3,6.0,5.0,5.666666666666667,17.0,17.0,3810.0,1.487
-Pau Torres,DF,Villarreal,Disponible,100%,100%,3,4.666666666666667,5.666666666666667,5.666666666666667,17.0,17.0,7020.0,0.807
-Pedraza,DF,Villarreal,Disponible,100%,100%,3,4.666666666666667,6.0,5.333333333333333,16.0,16.0,3890.0,1.371
-Coquelin,MC,Villarreal,Disponible,33%,100%,3,2.0,3.0,2.6666666666666665,8.0,8.0,1970.0,1.354
-Étienne Capoue,MC,Villarreal,Disponible,100%,100%,3,4.666666666666667,4.666666666666667,5.0,15.0,15.0,4520.0,1.106
-Parejo,MC,Villarreal,Disponible,100%,100%,3,3.3333333333333335,7.0,5.333333333333333,16.0,16.0,9700.0,0.55
-Gerard Moreno,DL,Villarreal,Disponible,100%,100%,3,5.666666666666667,4.666666666666667,5.666666666666667,17.0,17.0,13870.0,0.409
-Nicolas Jackson,DL,Villarreal,Disponible,67%,100%,3,5.666666666666667,5.0,5.666666666666667,17.0,17.0,3820.0,1.483
-Yéremi Pino,DL,Villarreal,Disponible,100%,100%,3,5.666666666666667,5.0,5.666666666666667,17.0,17.0,5830.0,0.972
-Álex Baena,MC,Villarreal,Disponible,0%,100%,3,7.333333333333333,8.333333333333334,8.0,24.0,24.0,3750.0,2.133
-Chukwueze,MC,Villarreal,Disponible,0%,100%,3,3.3333333333333335,4.0,4.0,12.0,12.0,3100.0,1.29
-Morales,DL,Villarreal,Disponible,33%,100%,3,3.3333333333333335,2.3333333333333335,3.0,9.0,9.0,5310.0,0.565
+Carles Pérez,DL,Celta,Disponible,33%,100%,3,2.0,3.67,3.33,10.0,10.0,2630.0,1.266
+Mingueza,DF,Celta,Disponible,0%,33%,1,-2.0,-6.0,-4.0,-4.0,-4.0,1030.0,-3.883
+Lecomte,PT,Espanyol,Disponible,100%,100%,3,-1.33,0.67,0.0,0.0,0.0,2100.0,0.0
+Brian Olivan,DF,Espanyol,Disponible,100%,100%,3,3.33,3.0,3.33,10.0,10.0,1520.0,2.191
+Cabrera,DF,Espanyol,Disponible,100%,100%,3,2.0,4.67,3.67,11.0,11.0,2540.0,1.445
+Calero,DF,Espanyol,Disponible,67%,100%,3,2.0,3.67,3.0,9.0,9.0,710.0,4.225
+Óscar Gil,DF,Espanyol,Disponible,100%,100%,3,2.0,1.0,1.67,5.0,5.0,1260.0,1.325
+Sergi Gómez,DF,Espanyol,Disponible,67%,67%,2,-3.0,-1.0,-1.5,-3.0,-3.0,850.0,-1.765
+Darder,MC,Espanyol,Disponible,100%,100%,3,4.67,5.33,5.0,15.0,15.0,5640.0,0.887
+Nicolás Melamed,MC,Espanyol,Disponible,67%,100%,3,2.67,2.33,2.67,8.0,8.0,1510.0,1.768
+Vinicius Souza,MC,Espanyol,Disponible,100%,100%,3,3.33,4.33,4.0,12.0,12.0,2750.0,1.455
+Joselu,DL,Espanyol,Disponible,100%,100%,3,6.67,8.67,8.0,24.0,24.0,9430.0,0.848
+Edu Expósito,MC,Espanyol,Disponible,100%,100%,3,4.67,7.33,6.33,19.0,19.0,3850.0,1.644
+Asenjo,PT,Real Valladolid,Disponible,67%,67%,2,0.0,-0.5,0.0,0.0,0.0,2270.0,0.0
+El Yamiq,DF,Real Valladolid,Disponible,67%,67%,2,-1.0,5.5,2.5,5.0,5.0,1350.0,1.852
+Escudero,DF,Real Valladolid,Disponible,100%,100%,3,0.67,1.0,1.33,4.0,4.0,1410.0,0.943
+Joaquín Fernández,DF,Real Valladolid,Disponible,67%,100%,3,0.67,2.0,1.67,5.0,5.0,1170.0,1.427
+Luis Pérez,DF,Real Valladolid,Disponible,100%,100%,3,3.33,1.67,2.67,8.0,8.0,1510.0,1.768
+Álvaro Aguado,MC,Real Valladolid,Disponible,100%,100%,3,3.33,4.0,4.0,12.0,12.0,2300.0,1.739
+Monchu,MC,Real Valladolid,Disponible,67%,100%,3,0.67,2.67,1.67,5.0,5.0,1010.0,1.653
+Roque Mesa,MC,Real Valladolid,Disponible,67%,100%,3,2.0,2.67,2.67,8.0,8.0,2300.0,1.161
+Gonzalo Plata,DL,Real Valladolid,Disponible,33%,33%,1,2.0,2.0,2.0,2.0,2.0,2200.0,0.909
+Sergio León,DL,Real Valladolid,Disponible,33%,100%,3,2.0,2.67,2.67,8.0,8.0,1060.0,2.519
+Iván Sánchez,MC,Real Valladolid,Disponible,67%,100%,3,2.0,4.33,3.33,10.0,10.0,1830.0,1.82
+Kike Perez,MC,Real Valladolid,Disponible,67%,100%,3,3.33,3.33,3.67,11.0,11.0,1020.0,3.598
+Óscar Plano,MC,Real Valladolid,Disponible,0%,100%,3,3.33,3.67,3.67,11.0,11.0,1300.0,2.823
+Olaza,DF,Real Valladolid,Disponible,0%,67%,2,2.0,1.5,2.0,4.0,4.0,760.0,2.632
+Rulli,PT,Villarreal,Disponible,100%,100%,3,7.33,9.67,8.67,26.0,26.0,5190.0,1.671
+Albiol,DF,Villarreal,Disponible,100%,100%,3,4.67,5.0,5.0,15.0,15.0,4490.0,1.114
+Foyth,DF,Villarreal,Lesionado,100%,100%,3,6.0,5.0,5.67,17.0,17.0,3710.0,1.528
+Pau Torres,DF,Villarreal,Disponible,100%,100%,3,4.67,5.67,5.67,17.0,17.0,7000.0,0.81
+Pedraza,DF,Villarreal,Disponible,100%,100%,3,4.67,6.0,5.33,16.0,16.0,3930.0,1.356
+Coquelin,MC,Villarreal,Disponible,33%,100%,3,2.0,3.0,2.67,8.0,8.0,1950.0,1.369
+Étienne Capoue,MC,Villarreal,Disponible,100%,100%,3,4.67,4.67,5.0,15.0,15.0,4540.0,1.101
+Parejo,MC,Villarreal,Disponible,100%,100%,3,3.33,7.0,5.33,16.0,16.0,9680.0,0.551
+Gerard Moreno,DL,Villarreal,Disponible,100%,100%,3,5.67,4.67,5.67,17.0,17.0,13870.0,0.409
+Nicolas Jackson,DL,Villarreal,Disponible,67%,100%,3,5.67,5.0,5.67,17.0,17.0,3850.0,1.473
+Yéremi Pino,DL,Villarreal,Disponible,100%,100%,3,5.67,5.0,5.67,17.0,17.0,5890.0,0.963
+Álex Baena,MC,Villarreal,Disponible,0%,100%,3,7.33,8.33,8.0,24.0,24.0,3730.0,2.145
+Chukwueze,MC,Villarreal,Disponible,0%,100%,3,3.33,4.0,4.0,12.0,12.0,3080.0,1.299
+Morales,DL,Villarreal,Disponible,33%,100%,3,3.33,2.33,3.0,9.0,9.0,5270.0,0.569
 Mandi,DF,Villarreal,Disponible,0%,33%,1,0.0,2.0,1.0,1.0,1.0,270.0,3.704
-Ter Stegen,PT,Barcelona,Disponible,100%,100%,3,8.666666666666666,6.666666666666667,8.0,24.0,24.0,7000.0,1.143
-Christensen,DF,Barcelona,Disponible,67%,67%,2,2.0,5.0,3.5,7.0,7.0,2680.0,1.306
-Eric García,DF,Barcelona,Disponible,100%,100%,3,3.3333333333333335,5.666666666666667,5.0,15.0,15.0,2590.0,1.931
-Jordi Alba,DF,Barcelona,Disponible,33%,67%,2,0.0,2.5,1.5,3.0,3.0,3480.0,0.431
-Ronald Araújo,DF,Barcelona,Disponible,100%,100%,3,3.3333333333333335,3.3333333333333335,3.6666666666666665,11.0,11.0,7460.0,0.492
-Busquets,MC,Barcelona,Disponible,67%,67%,2,0.5,5.0,3.0,6.0,6.0,5280.0,0.568
-Gavi,MC,Barcelona,Disponible,100%,100%,3,3.3333333333333335,4.0,4.0,12.0,12.0,7950.0,0.503
-Pedri,MC,Barcelona,Disponible,100%,100%,3,7.333333333333333,8.666666666666666,8.333333333333334,25.0,25.0,13930.0,0.598
-Dembélé,DL,Barcelona,Disponible,100%,100%,3,5.666666666666667,9.666666666666666,8.0,24.0,24.0,13660.0,0.586
-Lewandowski,DL,Barcelona,Disponible,100%,100%,3,11.333333333333334,13.333333333333334,12.333333333333334,37.0,37.0,20400.0,0.605
-Raphinha,DL,Barcelona,Disponible,67%,100%,3,6.0,7.666666666666667,7.0,21.0,21.0,11220.0,0.624
-Sergi Roberto,DF,Barcelona,Disponible,0%,100%,3,3.0,6.0,4.666666666666667,14.0,14.0,920.0,5.072
-Frenkie De Jong,MC,Barcelona,Disponible,33%,100%,3,3.3333333333333335,5.0,4.333333333333333,13.0,13.0,3700.0,1.171
-Ansu Fati,DL,Barcelona,Disponible,0%,100%,3,7.0,8.0,7.666666666666667,23.0,23.0,12790.0,0.599
-Kessie,MC,Barcelona,Disponible,0%,100%,3,1.3333333333333333,2.6666666666666665,2.0,6.0,6.0,2980.0,0.671
-Dimitrievski,PT,Rayo Vallecano,Disponible,100%,100%,3,6.0,5.666666666666667,6.333333333333333,19.0,19.0,3800.0,1.667
-Catena,DF,Rayo Vallecano,Disponible,100%,100%,3,6.0,4.666666666666667,5.666666666666667,17.0,17.0,4470.0,1.268
-Fran García,DF,Rayo Vallecano,Disponible,100%,100%,3,4.666666666666667,4.0,4.666666666666667,14.0,14.0,4300.0,1.085
-Iván Balliu,DF,Rayo Vallecano,Disponible,100%,100%,3,3.3333333333333335,4.333333333333333,4.0,12.0,12.0,2830.0,1.413
+Ter Stegen,PT,Barcelona,Disponible,100%,100%,3,8.67,6.67,8.0,24.0,24.0,7050.0,1.135
+Christensen,DF,Barcelona,Disponible,67%,67%,2,2.0,5.0,3.5,7.0,7.0,2640.0,1.326
+Eric García,DF,Barcelona,Disponible,100%,100%,3,3.33,5.67,5.0,15.0,15.0,2720.0,1.838
+Jordi Alba,DF,Barcelona,Disponible,33%,67%,2,0.0,2.5,1.5,3.0,3.0,3380.0,0.444
+Ronald Araújo,DF,Barcelona,Disponible,100%,100%,3,3.33,3.33,3.67,11.0,11.0,7460.0,0.492
+Busquets,MC,Barcelona,Disponible,67%,67%,2,0.5,5.0,3.0,6.0,6.0,5270.0,0.569
+Gavi,MC,Barcelona,Disponible,100%,100%,3,3.33,4.0,4.0,12.0,12.0,7980.0,0.501
+Pedri,MC,Barcelona,Disponible,100%,100%,3,7.33,8.67,8.33,25.0,25.0,14000.0,0.595
+Dembélé,DL,Barcelona,Disponible,100%,100%,3,5.67,9.67,8.0,24.0,24.0,13730.0,0.583
+Lewandowski,DL,Barcelona,Disponible,100%,100%,3,11.33,13.33,12.33,37.0,37.0,20480.0,0.602
+Raphinha,DL,Barcelona,Disponible,67%,100%,3,6.0,7.67,7.0,21.0,21.0,11320.0,0.618
+Sergi Roberto,DF,Barcelona,Disponible,0%,100%,3,3.0,6.0,4.67,14.0,14.0,970.0,4.814
+Frenkie De Jong,MC,Barcelona,Disponible,33%,100%,3,3.33,5.0,4.33,13.0,13.0,3730.0,1.161
+Ansu Fati,DL,Barcelona,Disponible,0%,100%,3,7.0,8.0,7.67,23.0,23.0,12660.0,0.606
+Kessie,MC,Barcelona,Disponible,0%,100%,3,1.33,2.67,2.0,6.0,6.0,2930.0,0.683
+Dimitrievski,PT,Rayo Vallecano,Disponible,100%,100%,3,6.0,5.67,6.33,19.0,19.0,3800.0,1.666
+Catena,DF,Rayo Vallecano,Disponible,100%,100%,3,6.0,4.67,5.67,17.0,17.0,4450.0,1.274
+Fran García,DF,Rayo Vallecano,Disponible,100%,100%,3,4.67,4.0,4.67,14.0,14.0,4270.0,1.094
+Iván Balliu,DF,Rayo Vallecano,Disponible,100%,100%,3,3.33,4.33,4.0,12.0,12.0,2810.0,1.423
 Lejeune,DF,Rayo Vallecano,Disponible,67%,67%,2,0.5,-0.5,0.5,1.0,1.0,1560.0,0.321
-Pathé Ciss,MC,Rayo Vallecano,Disponible,100%,100%,3,7.333333333333333,8.0,8.0,24.0,24.0,3780.0,2.116
-Trejo,MC,Rayo Vallecano,Disponible,100%,100%,3,6.0,3.6666666666666665,5.0,15.0,15.0,5670.0,0.882
-Unai López,MC,Rayo Vallecano,Disponible,100%,100%,3,4.666666666666667,3.0,4.0,12.0,12.0,2030.0,1.97
-Álvaro García,DL,Rayo Vallecano,Disponible,100%,100%,3,6.0,4.333333333333333,5.333333333333333,16.0,16.0,7110.0,0.75
+Pathé Ciss,MC,Rayo Vallecano,Disponible,100%,100%,3,7.33,8.0,8.0,24.0,24.0,3830.0,2.089
+Trejo,MC,Rayo Vallecano,Disponible,100%,100%,3,6.0,3.67,5.0,15.0,15.0,5670.0,0.882
+Unai López,MC,Rayo Vallecano,Disponible,100%,100%,3,4.67,3.0,4.0,12.0,12.0,2040.0,1.961
+Álvaro García,DL,Rayo Vallecano,Disponible,100%,100%,3,6.0,4.33,5.33,16.0,16.0,7080.0,0.753
 Isi Palazón,DL,Rayo Vallecano,Duda próximo partido,67%,67%,2,9.5,7.5,9.0,18.0,18.0,4890.0,1.84
-Sergio Camello,DL,Rayo Vallecano,Disponible,67%,100%,3,3.3333333333333335,2.3333333333333335,3.0,9.0,9.0,1790.0,1.676
-Óscar Valentín,MC,Rayo Vallecano,Disponible,33%,100%,3,3.3333333333333335,4.333333333333333,4.0,12.0,12.0,2330.0,1.717
-Falcao,DL,Rayo Vallecano,Disponible,33%,100%,3,3.3333333333333335,2.0,3.0,9.0,9.0,2680.0,1.119
-Salvi,MC,Rayo Vallecano,Disponible,33%,100%,3,1.3333333333333333,3.3333333333333335,2.3333333333333335,7.0,7.0,870.0,2.682
+Sergio Camello,DL,Rayo Vallecano,Disponible,67%,100%,3,3.33,2.33,3.0,9.0,9.0,1780.0,1.685
+Óscar Valentín,MC,Rayo Vallecano,Disponible,33%,100%,3,3.33,4.33,4.0,12.0,12.0,2320.0,1.724
+Falcao,DL,Rayo Vallecano,Disponible,33%,100%,3,3.33,2.0,3.0,9.0,9.0,2670.0,1.124
+Salvi,MC,Rayo Vallecano,Disponible,33%,100%,3,1.33,3.33,2.33,7.0,7.0,870.0,2.678
 José Pozo,MC,Rayo Vallecano,Disponible,0%,67%,2,0.0,3.5,2.0,4.0,4.0,170.0,11.765
-Ledesma,PT,Cádiz CF,Disponible,100%,100%,3,4.666666666666667,4.333333333333333,4.666666666666667,14.0,14.0,4180.0,1.116
-Chust,DF,Cádiz CF,Disponible,67%,100%,3,-0.6666666666666666,2.6666666666666665,1.3333333333333333,4.0,4.0,1210.0,1.102
-Fali,DF,Cádiz CF,Disponible,100%,100%,3,2.0,3.6666666666666665,3.0,9.0,9.0,1330.0,2.256
-Luis Hernández,DF,Cádiz CF,Disponible,100%,100%,3,3.3333333333333335,5.0,4.333333333333333,13.0,13.0,3100.0,1.398
-Pacha Espino,DF,Cádiz CF,Disponible,100%,100%,3,0.6666666666666666,1.3333333333333333,1.3333333333333333,4.0,4.0,3220.0,0.414
-Santiago Arzamendia,DF,Cádiz CF,Disponible,100%,100%,3,0.6666666666666666,1.3333333333333333,1.3333333333333333,4.0,4.0,340.0,3.922
-Zaldua,DF,Cádiz CF,Disponible,100%,100%,3,0.6666666666666666,2.3333333333333335,1.6666666666666667,5.0,5.0,1520.0,1.096
-José Mari,MC,Cádiz CF,Disponible,67%,100%,3,-0.6666666666666666,2.3333333333333335,1.3333333333333333,4.0,4.0,430.0,3.101
-Choco Lozano,DL,Cádiz CF,Disponible,100%,100%,3,-0.6666666666666666,1.6666666666666667,0.6666666666666666,2.0,2.0,1660.0,0.402
-Lucas Pérez,DL,Cádiz CF,Disponible,67%,100%,3,-0.6666666666666666,2.0,1.0,3.0,3.0,2470.0,0.405
-Awer Mabil,DL,Cádiz CF,Disponible,33%,100%,3,2.0,2.0,2.0,6.0,6.0,700.0,2.857
-Iván Alejo,MC,Cádiz CF,Disponible,33%,100%,3,2.0,1.0,1.6666666666666667,5.0,5.0,820.0,2.033
+Ledesma,PT,Cádiz CF,Disponible,100%,100%,3,4.67,4.33,4.67,14.0,14.0,4080.0,1.145
+Chust,DF,Cádiz CF,Disponible,67%,100%,3,-0.67,2.67,1.33,4.0,4.0,1190.0,1.118
+Fali,DF,Cádiz CF,Disponible,100%,100%,3,2.0,3.67,3.0,9.0,9.0,1300.0,2.308
+Luis Hernández,DF,Cádiz CF,Disponible,100%,100%,3,3.33,5.0,4.33,13.0,13.0,3040.0,1.424
+Pacha Espino,DF,Cádiz CF,Disponible,100%,100%,3,0.67,1.33,1.33,4.0,4.0,3090.0,0.43
+Santiago Arzamendia,DF,Cádiz CF,Disponible,100%,100%,3,0.67,1.33,1.33,4.0,4.0,330.0,4.03
+Zaldua,DF,Cádiz CF,Disponible,100%,100%,3,0.67,2.33,1.67,5.0,5.0,1490.0,1.121
+José Mari,MC,Cádiz CF,Disponible,67%,100%,3,-0.67,2.33,1.33,4.0,4.0,410.0,3.244
+Choco Lozano,DL,Cádiz CF,Disponible,100%,100%,3,-0.67,1.67,0.67,2.0,2.0,1610.0,0.416
+Lucas Pérez,DL,Cádiz CF,Disponible,67%,100%,3,-0.67,2.0,1.0,3.0,3.0,2390.0,0.418
+Awer Mabil,DL,Cádiz CF,Disponible,33%,100%,3,2.0,2.0,2.0,6.0,6.0,660.0,3.03
+Iván Alejo,MC,Cádiz CF,Disponible,33%,100%,3,2.0,1.0,1.67,5.0,5.0,810.0,2.062
 Tomás Alarcón,MC,Cádiz CF,Disponible,33%,67%,2,0.5,2.5,1.5,3.0,3.0,240.0,6.25
-Negredo,DL,Cádiz CF,Disponible,33%,100%,3,2.0,3.3333333333333335,3.0,9.0,9.0,1920.0,1.562
-Remiro,PT,Real Sociedad,Disponible,100%,100%,3,4.666666666666667,5.333333333333333,5.333333333333333,16.0,16.0,4570.0,1.167
-Diego Rico,DF,Real Sociedad,Lesionado,33%,33%,1,2.0,3.0,3.0,3.0,3.0,1600.0,1.875
-Elustondo,DF,Real Sociedad,Disponible,67%,100%,3,4.666666666666667,3.3333333333333335,4.0,12.0,12.0,3470.0,1.153
-Le Normand,DF,Real Sociedad,Disponible,100%,100%,3,6.0,4.0,5.333333333333333,16.0,16.0,6280.0,0.849
-Zubeldia,DF,Real Sociedad,Disponible,100%,100%,3,3.3333333333333335,3.6666666666666665,3.6666666666666665,11.0,11.0,2560.0,1.432
-Brais Méndez,MC,Real Sociedad,Disponible,100%,100%,3,8.666666666666666,6.0,7.666666666666667,23.0,23.0,6550.0,1.17
-Kubo,MC,Real Sociedad,Disponible,100%,100%,3,7.333333333333333,4.666666666666667,6.333333333333333,19.0,19.0,5620.0,1.127
-Mikel Merino,MC,Real Sociedad,Disponible,100%,100%,3,6.0,6.666666666666667,6.666666666666667,20.0,20.0,9100.0,0.733
-Silva,MC,Real Sociedad,Disponible,100%,100%,3,6.0,4.666666666666667,5.333333333333333,16.0,16.0,6160.0,0.866
-Zubimendi,MC,Real Sociedad,Disponible,100%,100%,3,3.3333333333333335,5.666666666666667,4.666666666666667,14.0,14.0,3560.0,1.311
-Barrenetxea,MC,Real Sociedad,Disponible,0%,67%,2,1.0,2.0,2.0,4.0,4.0,970.0,2.062
-Illarramendi,MC,Real Sociedad,Disponible,0%,67%,2,1.0,2.0,2.0,4.0,4.0,850.0,2.353
-Mohamed-Ali Cho,MC,Real Sociedad,Disponible,33%,100%,3,2.0,2.3333333333333335,2.3333333333333335,7.0,7.0,2930.0,0.796
-Aihen Muñoz,DF,Real Sociedad,Disponible,67%,100%,3,2.6666666666666665,1.6666666666666667,2.3333333333333335,7.0,7.0,980.0,2.381
-Giorgi Mamardashvili,PT,Valencia,Disponible,100%,100%,3,4.666666666666667,5.0,5.0,15.0,15.0,3870.0,1.292
-Diakhaby,DF,Valencia,Disponible,100%,100%,3,3.3333333333333335,2.6666666666666665,3.3333333333333335,10.0,10.0,2010.0,1.658
-Eray Cömert,DF,Valencia,Disponible,67%,67%,2,-1.0,2.5,1.0,2.0,2.0,270.0,3.704
-Jesús Vázquez,DF,Valencia,Disponible,67%,67%,2,4.0,1.5,3.0,6.0,6.0,1150.0,2.609
-Thierry Correia,DF,Valencia,Disponible,100%,100%,3,4.666666666666667,4.333333333333333,5.0,15.0,15.0,3190.0,1.567
-Guillamón,MC,Valencia,Disponible,100%,100%,3,6.0,3.6666666666666665,5.0,15.0,15.0,3690.0,1.355
-Musah,MC,Valencia,Disponible,100%,100%,3,3.3333333333333335,4.0,4.0,12.0,12.0,2270.0,1.762
-Samu Castillejo,MC,Valencia,Disponible,100%,100%,3,4.666666666666667,3.6666666666666665,4.333333333333333,13.0,13.0,5500.0,0.788
-Hugo Duro,DL,Valencia,Disponible,67%,67%,2,1.0,3.0,2.0,4.0,4.0,2540.0,0.787
-Samuel Lino,DL,Valencia,Disponible,100%,100%,3,3.3333333333333335,4.0,4.0,12.0,12.0,3750.0,1.067
+Negredo,DL,Cádiz CF,Disponible,33%,100%,3,2.0,3.33,3.0,9.0,9.0,1840.0,1.63
+Remiro,PT,Real Sociedad,Disponible,100%,100%,3,4.67,5.33,5.33,16.0,16.0,4590.0,1.161
+Diego Rico,DF,Real Sociedad,Lesionado,33%,33%,1,2.0,3.0,3.0,3.0,3.0,1580.0,1.899
+Elustondo,DF,Real Sociedad,Disponible,67%,100%,3,4.67,3.33,4.0,12.0,12.0,3440.0,1.163
+Le Normand,DF,Real Sociedad,Disponible,100%,100%,3,6.0,4.0,5.33,16.0,16.0,6280.0,0.849
+Zubeldia,DF,Real Sociedad,Disponible,100%,100%,3,3.33,3.67,3.67,11.0,11.0,2560.0,1.434
+Brais Méndez,MC,Real Sociedad,Disponible,100%,100%,3,8.67,6.0,7.67,23.0,23.0,6620.0,1.159
+Kubo,MC,Real Sociedad,Disponible,100%,100%,3,7.33,4.67,6.33,19.0,19.0,5650.0,1.12
+Mikel Merino,MC,Real Sociedad,Disponible,100%,100%,3,6.0,6.67,6.67,20.0,20.0,9070.0,0.735
+Silva,MC,Real Sociedad,Disponible,100%,100%,3,6.0,4.67,5.33,16.0,16.0,6230.0,0.856
+Zubimendi,MC,Real Sociedad,Disponible,100%,100%,3,3.33,5.67,4.67,14.0,14.0,3590.0,1.301
+Barrenetxea,MC,Real Sociedad,Disponible,0%,67%,2,1.0,2.0,2.0,4.0,4.0,960.0,2.083
+Illarramendi,MC,Real Sociedad,Disponible,0%,67%,2,1.0,2.0,2.0,4.0,4.0,840.0,2.381
+Mohamed-Ali Cho,MC,Real Sociedad,Disponible,33%,100%,3,2.0,2.33,2.33,7.0,7.0,3000.0,0.777
+Aihen Muñoz,DF,Real Sociedad,Disponible,67%,100%,3,2.67,1.67,2.33,7.0,7.0,1010.0,2.307
+Giorgi Mamardashvili,PT,Valencia,Disponible,100%,100%,3,4.67,5.0,5.0,15.0,15.0,3880.0,1.289
+Diakhaby,DF,Valencia,Disponible,100%,100%,3,3.33,2.67,3.33,10.0,10.0,2010.0,1.657
+Eray Cömert,DF,Valencia,Disponible,67%,67%,2,-1.0,2.5,1.0,2.0,2.0,280.0,3.571
+Jesús Vázquez,DF,Valencia,Disponible,67%,67%,2,4.0,1.5,3.0,6.0,6.0,1140.0,2.632
+Thierry Correia,DF,Valencia,Disponible,100%,100%,3,4.67,4.33,5.0,15.0,15.0,3190.0,1.567
+Guillamón,MC,Valencia,Disponible,100%,100%,3,6.0,3.67,5.0,15.0,15.0,3670.0,1.362
+Musah,MC,Valencia,Disponible,100%,100%,3,3.33,4.0,4.0,12.0,12.0,2310.0,1.732
+Samu Castillejo,MC,Valencia,Disponible,100%,100%,3,4.67,3.67,4.33,13.0,13.0,5500.0,0.787
+Hugo Duro,DL,Valencia,Disponible,67%,67%,2,1.0,3.0,2.0,4.0,4.0,2510.0,0.797
+Samuel Lino,DL,Valencia,Disponible,100%,100%,3,3.33,4.0,4.0,12.0,12.0,3720.0,1.075
 Cristhian Mosquera,DF,Valencia,Disponible,0%,33%,1,2.0,4.0,3.0,3.0,3.0,220.0,13.636
-Foulquier,DF,Valencia,Disponible,0%,100%,3,2.0,2.6666666666666665,2.3333333333333335,7.0,7.0,1150.0,2.029
-Lato,DF,Valencia,Disponible,33%,100%,3,2.0,3.3333333333333335,3.0,9.0,9.0,480.0,6.25
-Nico González,MC,Valencia,Disponible,0%,100%,3,2.0,3.3333333333333335,3.0,9.0,9.0,3390.0,0.885
-Juan Carlos Martín,PT,Girona,Disponible,100%,100%,3,3.3333333333333335,4.666666666666667,4.333333333333333,13.0,13.0,2850.0,1.52
-Juanpe,DF,Girona,Disponible,100%,100%,3,2.0,3.0,2.6666666666666665,8.0,8.0,1750.0,1.524
-Santiago Bueno,DF,Girona,Disponible,100%,100%,3,4.666666666666667,6.333333333333333,5.666666666666667,17.0,17.0,2660.0,2.13
-Yan Couto,DF,Girona,Disponible,100%,100%,3,3.3333333333333335,3.3333333333333335,3.3333333333333335,10.0,10.0,1510.0,2.208
-Aleix García,MC,Girona,Disponible,100%,100%,3,4.666666666666667,7.0,6.0,18.0,18.0,3460.0,1.734
-David López,MC,Girona,Disponible,100%,100%,3,3.3333333333333335,3.6666666666666665,3.6666666666666665,11.0,11.0,1480.0,2.477
-Ramón Terrats,MC,Girona,Lesionado,67%,100%,3,1.3333333333333333,1.6666666666666667,2.0,6.0,6.0,430.0,4.651
-Rodrigo Riquelme,MC,Girona,Disponible,67%,67%,2,8.0,3.5,6.0,12.0,12.0,3400.0,1.765
-Samu Sáiz,MC,Girona,Disponible,33%,100%,3,2.0,2.6666666666666665,2.6666666666666665,8.0,8.0,1540.0,1.732
-Valery,MC,Girona,Duda próximo partido,33%,33%,1,-2.0,2.0,0.0,0.0,0.0,380.0,0.0
-Taty Castellanos,DL,Girona,Disponible,100%,100%,3,7.0,5.333333333333333,6.333333333333333,19.0,19.0,5310.0,1.193
-Miguel Gutiérrez,DF,Girona,Disponible,67%,100%,3,4.666666666666667,4.666666666666667,5.0,15.0,15.0,3210.0,1.558
-Stuani,DL,Girona,Lesionado,67%,100%,3,5.666666666666667,5.0,5.666666666666667,17.0,17.0,6670.0,0.85
-Yangel Herrera,MC,Girona,Lesionado,67%,100%,3,2.6666666666666665,3.6666666666666665,3.6666666666666665,11.0,11.0,1560.0,2.35
-Arnau Martínez,DF,Girona,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,1590.0,1.258
-Fernando Martinez,PT,Almería,Disponible,100%,100%,3,8.666666666666666,8.0,8.666666666666666,26.0,26.0,3760.0,2.305
-Akieme,DF,Almería,Disponible,100%,100%,3,6.0,5.0,5.666666666666667,17.0,17.0,3120.0,1.816
-Babic,DF,Almería,Disponible,100%,100%,3,4.666666666666667,2.3333333333333335,4.0,12.0,12.0,2200.0,1.818
-Chumi,DF,Almería,Disponible,33%,100%,3,1.3333333333333333,3.3333333333333335,2.6666666666666665,8.0,8.0,600.0,4.444
-Kaiky,DF,Almería,Disponible,100%,100%,3,6.0,3.6666666666666665,5.0,15.0,15.0,2880.0,1.736
-Rodrigo Ely,DF,Almería,Disponible,100%,100%,3,4.666666666666667,5.0,5.0,15.0,15.0,2900.0,1.724
-Eguaras,MC,Almería,Duda próximo partido,100%,100%,3,6.0,4.666666666666667,5.666666666666667,17.0,17.0,2060.0,2.751
-Lucas Robertone,MC,Almería,Disponible,100%,100%,3,4.666666666666667,5.333333333333333,5.333333333333333,16.0,16.0,3160.0,1.688
-Samú Costa,MC,Almería,Disponible,100%,100%,3,3.3333333333333335,4.0,4.0,12.0,12.0,2210.0,1.81
-Largie Ramazani,DL,Almería,Disponible,100%,100%,3,8.0,7.333333333333333,8.0,24.0,24.0,5430.0,1.473
-Dyego Sousa,DL,Almería,Disponible,0%,67%,2,1.0,2.0,1.5,3.0,3.0,320.0,4.688
+Foulquier,DF,Valencia,Disponible,0%,100%,3,2.0,2.67,2.33,7.0,7.0,1140.0,2.044
+Lato,DF,Valencia,Disponible,33%,100%,3,2.0,3.33,3.0,9.0,9.0,490.0,6.122
+Nico González,MC,Valencia,Disponible,0%,100%,3,2.0,3.33,3.0,9.0,9.0,3370.0,0.89
+Juan Carlos Martín,PT,Girona,Disponible,100%,100%,3,3.33,4.67,4.33,13.0,13.0,2850.0,1.519
+Juanpe,DF,Girona,Disponible,100%,100%,3,2.0,3.0,2.67,8.0,8.0,1740.0,1.534
+Santiago Bueno,DF,Girona,Disponible,100%,100%,3,4.67,6.33,5.67,17.0,17.0,2710.0,2.092
+Yan Couto,DF,Girona,Disponible,100%,100%,3,3.33,3.33,3.33,10.0,10.0,1500.0,2.22
+Aleix García,MC,Girona,Disponible,100%,100%,3,4.67,7.0,6.0,18.0,18.0,3500.0,1.714
+David López,MC,Girona,Disponible,100%,100%,3,3.33,3.67,3.67,11.0,11.0,1490.0,2.463
+Ramón Terrats,MC,Girona,Lesionado,67%,100%,3,1.33,1.67,2.0,6.0,6.0,420.0,4.762
+Rodrigo Riquelme,MC,Girona,Disponible,67%,67%,2,8.0,3.5,6.0,12.0,12.0,3450.0,1.739
+Samu Sáiz,MC,Girona,Disponible,33%,100%,3,2.0,2.67,2.67,8.0,8.0,1540.0,1.734
+Valery,MC,Girona,Duda próximo partido,33%,33%,1,-2.0,2.0,0.0,0.0,0.0,370.0,0.0
+Taty Castellanos,DL,Girona,Disponible,100%,100%,3,7.0,5.33,6.33,19.0,19.0,5330.0,1.188
+Miguel Gutiérrez,DF,Girona,Disponible,67%,100%,3,4.67,4.67,5.0,15.0,15.0,3230.0,1.548
+Stuani,DL,Girona,Lesionado,67%,100%,3,5.67,5.0,5.67,17.0,17.0,6280.0,0.903
+Yangel Herrera,MC,Girona,Lesionado,67%,100%,3,2.67,3.67,3.67,11.0,11.0,1520.0,2.414
+Arnau Martínez,DF,Girona,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,1580.0,1.266
+Fernando Martinez,PT,Almería,Disponible,100%,100%,3,8.67,8.0,8.67,26.0,26.0,3800.0,2.282
+Akieme,DF,Almería,Disponible,100%,100%,3,6.0,5.0,5.67,17.0,17.0,3150.0,1.8
+Babic,DF,Almería,Disponible,100%,100%,3,4.67,2.33,4.0,12.0,12.0,2200.0,1.818
+Chumi,DF,Almería,Disponible,33%,100%,3,1.33,3.33,2.67,8.0,8.0,600.0,4.45
+Kaiky,DF,Almería,Disponible,100%,100%,3,6.0,3.67,5.0,15.0,15.0,2890.0,1.73
+Rodrigo Ely,DF,Almería,Disponible,100%,100%,3,4.67,5.0,5.0,15.0,15.0,2920.0,1.712
+Eguaras,MC,Almería,Duda próximo partido,100%,100%,3,6.0,4.67,5.67,17.0,17.0,2050.0,2.766
+Lucas Robertone,MC,Almería,Disponible,100%,100%,3,4.67,5.33,5.33,16.0,16.0,3180.0,1.676
+Samú Costa,MC,Almería,Disponible,100%,100%,3,3.33,4.0,4.0,12.0,12.0,2210.0,1.81
+Largie Ramazani,DL,Almería,Disponible,100%,100%,3,8.0,7.33,8.0,24.0,24.0,5560.0,1.439
+Dyego Sousa,DL,Almería,Disponible,0%,67%,2,1.0,2.0,1.5,3.0,3.0,330.0,4.545
 Arnau Puigmal,MC,Almería,Disponible,33%,67%,2,1.0,1.5,1.5,3.0,3.0,160.0,9.375
-Portillo,MC,Almería,Disponible,0%,67%,2,0.0,2.0,1.0,2.0,2.0,980.0,1.02
-Courtois,PT,Real Madrid,Disponible,100%,100%,3,6.0,4.666666666666667,5.666666666666667,17.0,17.0,9020.0,0.628
-Mendy,DF,Real Madrid,Disponible,67%,67%,2,2.0,4.0,3.5,7.0,7.0,3580.0,0.978
-Nacho,DF,Real Madrid,Disponible,33%,33%,1,6.0,4.0,5.0,5.0,5.0,1050.0,4.762
-Rüdiger,DF,Real Madrid,Disponible,67%,100%,3,3.3333333333333335,3.6666666666666665,3.6666666666666665,11.0,11.0,5940.0,0.617
-Camavinga,MC,Real Madrid,Disponible,67%,100%,3,3.3333333333333335,4.333333333333333,4.0,12.0,12.0,5420.0,0.738
-Kroos,MC,Real Madrid,Disponible,67%,67%,2,4.0,6.5,5.5,11.0,11.0,8100.0,0.679
-Lucas Vázquez,MC,Real Madrid,Disponible,67%,100%,3,4.0,6.333333333333333,5.666666666666667,17.0,17.0,2710.0,2.091
-Tchouameni,MC,Real Madrid,Disponible,100%,100%,3,4.666666666666667,6.333333333333333,5.666666666666667,17.0,17.0,7100.0,0.798
-Valverde,MC,Real Madrid,Disponible,100%,100%,3,6.0,7.666666666666667,7.0,21.0,21.0,8520.0,0.822
-Benzema,DL,Real Madrid,Disponible,100%,100%,3,10.333333333333334,9.333333333333334,10.0,30.0,30.0,20860.0,0.479
-Vinícius Jr,DL,Real Madrid,Disponible,100%,100%,3,12.0,10.666666666666666,11.666666666666666,35.0,35.0,18790.0,0.621
-Modric,MC,Real Madrid,Disponible,67%,100%,3,7.333333333333333,8.333333333333334,8.0,24.0,24.0,11020.0,0.726
-Hazard,DL,Real Madrid,Disponible,0%,67%,2,1.0,1.5,1.5,3.0,3.0,3180.0,0.472
-David Alaba,DF,Real Madrid,Disponible,67%,100%,3,7.666666666666667,7.0,7.666666666666667,23.0,23.0,9250.0,0.829
-Ceballos,MC,Real Madrid,Disponible,0%,100%,3,0.0,3.6666666666666665,2.3333333333333335,7.0,7.0,1450.0,1.609
-Unai Simón,PT,Athletic,Disponible,100%,100%,3,4.666666666666667,6.0,5.666666666666667,17.0,17.0,4440.0,1.276
-Dani Vivian,DF,Athletic,Disponible,100%,100%,3,4.666666666666667,6.0,5.666666666666667,17.0,17.0,3220.0,1.76
-de Marcos,DF,Athletic,Disponible,100%,100%,3,2.0,7.666666666666667,5.333333333333333,16.0,16.0,2460.0,2.168
-Yeray,DF,Athletic,Disponible,100%,100%,3,6.0,7.333333333333333,6.666666666666667,20.0,20.0,3980.0,1.675
-Yuri,DF,Athletic,Lesionado,67%,67%,2,4.0,7.0,5.5,11.0,11.0,3240.0,1.698
-Berenguer,MC,Athletic,Disponible,100%,100%,3,10.0,8.666666666666666,9.666666666666666,29.0,29.0,5340.0,1.81
-Muniain,MC,Athletic,Disponible,100%,100%,3,6.0,6.0,6.333333333333333,19.0,19.0,8360.0,0.758
-Vesga,MC,Athletic,Disponible,100%,100%,3,4.666666666666667,5.666666666666667,5.666666666666667,17.0,17.0,2730.0,2.076
-Sancet,DL,Athletic,Disponible,100%,100%,3,3.3333333333333335,3.6666666666666665,3.6666666666666665,11.0,11.0,3020.0,1.214
-Villalibre,DL,Athletic,Disponible,33%,33%,1,6.0,4.0,5.0,5.0,5.0,780.0,6.41
-Williams,DL,Athletic,Disponible,100%,100%,3,4.333333333333333,4.666666666666667,5.0,15.0,15.0,5530.0,0.904
+Portillo,MC,Almería,Disponible,0%,67%,2,0.0,2.0,1.0,2.0,2.0,970.0,1.031
+Courtois,PT,Real Madrid,Disponible,100%,100%,3,6.0,4.67,5.67,17.0,17.0,9020.0,0.629
+Mendy,DF,Real Madrid,Disponible,67%,67%,2,2.0,4.0,3.5,7.0,7.0,3570.0,0.98
+Nacho,DF,Real Madrid,Disponible,33%,33%,1,6.0,4.0,5.0,5.0,5.0,1040.0,4.808
+Rüdiger,DF,Real Madrid,Disponible,67%,100%,3,3.33,3.67,3.67,11.0,11.0,5870.0,0.625
+Camavinga,MC,Real Madrid,Disponible,67%,100%,3,3.33,4.33,4.0,12.0,12.0,5450.0,0.734
+Kroos,MC,Real Madrid,Disponible,67%,67%,2,4.0,6.5,5.5,11.0,11.0,8030.0,0.685
+Lucas Vázquez,MC,Real Madrid,Disponible,67%,100%,3,4.0,6.33,5.67,17.0,17.0,2690.0,2.108
+Tchouameni,MC,Real Madrid,Disponible,100%,100%,3,4.67,6.33,5.67,17.0,17.0,7320.0,0.775
+Valverde,MC,Real Madrid,Disponible,100%,100%,3,6.0,7.67,7.0,21.0,21.0,8600.0,0.814
+Benzema,DL,Real Madrid,Disponible,100%,100%,3,10.33,9.33,10.0,30.0,30.0,20860.0,0.479
+Vinícius Jr,DL,Real Madrid,Disponible,100%,100%,3,12.0,10.67,11.67,35.0,35.0,18870.0,0.618
+Modric,MC,Real Madrid,Disponible,67%,100%,3,7.33,8.33,8.0,24.0,24.0,11020.0,0.726
+Hazard,DL,Real Madrid,Disponible,0%,67%,2,1.0,1.5,1.5,3.0,3.0,3120.0,0.481
+David Alaba,DF,Real Madrid,Disponible,67%,100%,3,7.67,7.0,7.67,23.0,23.0,9290.0,0.826
+Ceballos,MC,Real Madrid,Disponible,0%,100%,3,0.0,3.67,2.33,7.0,7.0,1440.0,1.618
+Unai Simón,PT,Athletic,Disponible,100%,100%,3,4.67,6.0,5.67,17.0,17.0,4460.0,1.271
+Dani Vivian,DF,Athletic,Disponible,100%,100%,3,4.67,6.0,5.67,17.0,17.0,3260.0,1.739
+de Marcos,DF,Athletic,Disponible,100%,100%,3,2.0,7.67,5.33,16.0,16.0,2550.0,2.09
+Yeray,DF,Athletic,Disponible,100%,100%,3,6.0,7.33,6.67,20.0,20.0,4050.0,1.647
+Yuri,DF,Athletic,Lesionado,67%,67%,2,4.0,7.0,5.5,11.0,11.0,3200.0,1.719
+Berenguer,MC,Athletic,Disponible,100%,100%,3,10.0,8.67,9.67,29.0,29.0,5460.0,1.771
+Muniain,MC,Athletic,Disponible,100%,100%,3,6.0,6.0,6.33,19.0,19.0,8390.0,0.754
+Vesga,MC,Athletic,Disponible,100%,100%,3,4.67,5.67,5.67,17.0,17.0,2830.0,2.004
+Sancet,DL,Athletic,Disponible,100%,100%,3,3.33,3.67,3.67,11.0,11.0,3040.0,1.207
+Villalibre,DL,Athletic,Disponible,33%,33%,1,6.0,4.0,5.0,5.0,5.0,770.0,6.494
+Williams,DL,Athletic,Disponible,100%,100%,3,4.33,4.67,5.0,15.0,15.0,5540.0,0.903
 Oier Zarraga,MC,Athletic,Disponible,0%,67%,2,2.0,2.5,2.5,5.0,5.0,420.0,5.952
-Raúl García,DL,Athletic,Disponible,0%,100%,3,2.0,3.6666666666666665,3.0,9.0,9.0,1450.0,2.069
-Guruzeta,DL,Athletic,Disponible,0%,67%,2,9.0,9.0,9.5,19.0,19.0,950.0,10.0
-Nico Williams,DL,Athletic,Disponible,67%,100%,3,3.3333333333333335,5.666666666666667,4.666666666666667,14.0,14.0,3590.0,1.3
-Rajkovic,PT,Mallorca,Disponible,100%,100%,3,4.666666666666667,5.666666666666667,5.666666666666667,17.0,17.0,3400.0,1.667
-Copete,DF,Mallorca,Disponible,100%,100%,3,4.666666666666667,5.333333333333333,5.333333333333333,16.0,16.0,2030.0,2.627
-Jaume Costa,DF,Mallorca,Disponible,100%,100%,3,3.3333333333333335,4.333333333333333,4.333333333333333,13.0,13.0,1890.0,2.293
-Maffeo,DF,Mallorca,Disponible,100%,100%,3,4.666666666666667,5.333333333333333,5.333333333333333,16.0,16.0,3390.0,1.573
-Martin Valjent,DF,Mallorca,Disponible,100%,100%,3,4.666666666666667,6.0,5.666666666666667,17.0,17.0,2810.0,2.017
-Raíllo,DF,Mallorca,Disponible,100%,100%,3,3.3333333333333335,5.0,4.666666666666667,14.0,14.0,2400.0,1.944
-Battaglia,MC,Mallorca,Disponible,100%,100%,3,0.6666666666666666,2.0,1.6666666666666667,5.0,5.0,440.0,3.788
+Raúl García,DL,Athletic,Disponible,0%,100%,3,2.0,3.67,3.0,9.0,9.0,1450.0,2.069
+Guruzeta,DL,Athletic,Disponible,0%,67%,2,9.0,9.0,9.5,19.0,19.0,1120.0,8.482
+Nico Williams,DL,Athletic,Disponible,67%,100%,3,3.33,5.67,4.67,14.0,14.0,3620.0,1.29
+Rajkovic,PT,Mallorca,Disponible,100%,100%,3,4.67,5.67,5.67,17.0,17.0,3390.0,1.673
+Copete,DF,Mallorca,Disponible,100%,100%,3,4.67,5.33,5.33,16.0,16.0,2080.0,2.562
+Jaume Costa,DF,Mallorca,Disponible,100%,100%,3,3.33,4.33,4.33,13.0,13.0,1910.0,2.267
+Maffeo,DF,Mallorca,Disponible,100%,100%,3,4.67,5.33,5.33,16.0,16.0,3410.0,1.563
+Martin Valjent,DF,Mallorca,Disponible,100%,100%,3,4.67,6.0,5.67,17.0,17.0,2850.0,1.989
+Raíllo,DF,Mallorca,Disponible,100%,100%,3,3.33,5.0,4.67,14.0,14.0,2460.0,1.898
+Battaglia,MC,Mallorca,Disponible,100%,100%,3,0.67,2.0,1.67,5.0,5.0,450.0,3.711
 Clément Grenier,MC,Mallorca,Disponible,100%,100%,3,2.0,4.0,3.0,9.0,9.0,1240.0,2.419
-Dani Rodríguez,MC,Mallorca,Disponible,100%,100%,3,3.3333333333333335,3.0,3.3333333333333335,10.0,10.0,2850.0,1.17
-Kang-in Lee,MC,Mallorca,Disponible,100%,100%,3,7.333333333333333,8.666666666666666,8.333333333333334,25.0,25.0,4040.0,2.063
-Vedat Muriqi,DL,Mallorca,Disponible,100%,100%,3,5.333333333333333,7.666666666666667,6.666666666666667,20.0,20.0,5820.0,1.145
-Antonio Sánchez,MC,Mallorca,Disponible,0%,100%,3,2.0,1.3333333333333333,2.0,6.0,6.0,340.0,5.882
-Baba,MC,Mallorca,Duda próximo partido,0%,67%,2,1.0,3.0,2.0,4.0,4.0,1790.0,1.117
+Dani Rodríguez,MC,Mallorca,Disponible,100%,100%,3,3.33,3.0,3.33,10.0,10.0,2840.0,1.173
+Kang-in Lee,MC,Mallorca,Disponible,100%,100%,3,7.33,8.67,8.33,25.0,25.0,4230.0,1.969
+Vedat Muriqi,DL,Mallorca,Disponible,100%,100%,3,5.33,7.67,6.67,20.0,20.0,5860.0,1.138
+Antonio Sánchez,MC,Mallorca,Disponible,0%,100%,3,2.0,1.33,2.0,6.0,6.0,340.0,5.882
+Baba,MC,Mallorca,Duda próximo partido,0%,67%,2,1.0,3.0,2.0,4.0,4.0,1760.0,1.136
 Lago Junior,DL,Mallorca,Disponible,0%,67%,2,0.0,2.5,1.5,3.0,3.0,150.0,10.0
-Abdón Prats,DL,Mallorca,Disponible,0%,100%,3,0.0,3.0,1.6666666666666667,5.0,5.0,160.0,10.417
-David Soria,PT,Getafe,Disponible,100%,100%,3,3.3333333333333335,3.6666666666666665,3.6666666666666665,11.0,11.0,3190.0,1.149
-Djené,DF,Getafe,Disponible,100%,100%,3,2.0,2.0,2.3333333333333335,7.0,7.0,2630.0,0.887
-Domingos Duarte,DF,Getafe,Disponible,100%,100%,3,2.0,4.333333333333333,3.3333333333333335,10.0,10.0,2380.0,1.401
-Fabricio Angileri,DF,Getafe,Disponible,67%,67%,2,-3.0,1.0,-0.5,-1.0,-1.0,1330.0,-0.376
-Juan Iglesias,DF,Getafe,Disponible,100%,100%,3,4.666666666666667,4.333333333333333,4.666666666666667,14.0,14.0,1580.0,2.954
-Stefan Mitrovic,DF,Getafe,Disponible,67%,67%,2,0.0,-0.5,0.0,0.0,0.0,790.0,0.0
-Aleñá,MC,Getafe,Disponible,100%,100%,3,3.3333333333333335,1.0,2.3333333333333335,7.0,7.0,1550.0,1.505
-Arambarri,MC,Getafe,Disponible,100%,100%,3,2.0,5.0,3.6666666666666665,11.0,11.0,3750.0,0.978
-Maksimovic,MC,Getafe,Disponible,67%,100%,3,0.6666666666666666,2.6666666666666665,2.0,6.0,6.0,2040.0,0.98
-Enes Ünal,DL,Getafe,Disponible,100%,100%,3,4.333333333333333,6.333333333333333,5.333333333333333,16.0,16.0,6330.0,0.843
-Mayoral,DL,Getafe,Disponible,100%,100%,3,2.0,1.0,1.6666666666666667,5.0,5.0,3400.0,0.49
-Portu,DL,Getafe,Disponible,33%,100%,3,3.3333333333333335,2.3333333333333335,3.0,9.0,9.0,3560.0,0.843
-Seoane,MC,Getafe,Disponible,33%,100%,3,2.0,2.6666666666666665,2.6666666666666665,8.0,8.0,2100.0,1.27
+Abdón Prats,DL,Mallorca,Disponible,0%,100%,3,0.0,3.0,1.67,5.0,5.0,160.0,10.438
+David Soria,PT,Getafe,Disponible,100%,100%,3,3.33,3.67,3.67,11.0,11.0,3180.0,1.154
+Djené,DF,Getafe,Disponible,100%,100%,3,2.0,2.0,2.33,7.0,7.0,2610.0,0.893
+Domingos Duarte,DF,Getafe,Disponible,100%,100%,3,2.0,4.33,3.33,10.0,10.0,2380.0,1.399
+Fabricio Angileri,DF,Getafe,Disponible,67%,67%,2,-3.0,1.0,-0.5,-1.0,-1.0,1320.0,-0.379
+Juan Iglesias,DF,Getafe,Disponible,100%,100%,3,4.67,4.33,4.67,14.0,14.0,1620.0,2.883
+Stefan Mitrovic,DF,Getafe,Disponible,67%,67%,2,0.0,-0.5,0.0,0.0,0.0,780.0,0.0
+Aleñá,MC,Getafe,Disponible,100%,100%,3,3.33,1.0,2.33,7.0,7.0,1560.0,1.494
+Arambarri,MC,Getafe,Disponible,100%,100%,3,2.0,5.0,3.67,11.0,11.0,3720.0,0.987
+Maksimovic,MC,Getafe,Disponible,67%,100%,3,0.67,2.67,2.0,6.0,6.0,2020.0,0.99
+Enes Ünal,DL,Getafe,Disponible,100%,100%,3,4.33,6.33,5.33,16.0,16.0,6310.0,0.845
+Mayoral,DL,Getafe,Disponible,100%,100%,3,2.0,1.0,1.67,5.0,5.0,3370.0,0.496
+Portu,DL,Getafe,Disponible,33%,100%,3,3.33,2.33,3.0,9.0,9.0,3530.0,0.85
+Seoane,MC,Getafe,Disponible,33%,100%,3,2.0,2.67,2.67,8.0,8.0,2080.0,1.284
 Mata,DL,Getafe,Disponible,0%,67%,2,0.0,2.0,1.0,2.0,2.0,220.0,4.545
-Oblak,PT,Atlético,Disponible,100%,100%,3,3.3333333333333335,4.666666666666667,4.333333333333333,13.0,13.0,5730.0,0.756
-Nahuel Molina,DF,Atlético,Disponible,67%,67%,2,-1.0,2.5,1.0,2.0,2.0,3110.0,0.322
-Reinildo Mandava,DF,Atlético,Disponible,100%,100%,3,4.666666666666667,5.0,5.0,15.0,15.0,4990.0,1.002
-Savic,DF,Atlético,Lesionado,67%,67%,2,2.0,5.5,4.0,8.0,8.0,2650.0,1.509
-Axel Witsel,MC,Atlético,Disponible,100%,100%,3,6.0,4.666666666666667,5.333333333333333,16.0,16.0,5730.0,0.931
-Koke,MC,Atlético,Disponible,100%,100%,3,0.6666666666666666,4.333333333333333,2.6666666666666665,8.0,8.0,3510.0,0.76
-Lemar,MC,Atlético,Lesionado,67%,100%,3,2.0,5.666666666666667,4.0,12.0,12.0,3240.0,1.235
-Llorente,MC,Atlético,Disponible,100%,100%,3,0.6666666666666666,4.333333333333333,2.6666666666666665,8.0,8.0,4760.0,0.56
-Saúl,MC,Atlético,Disponible,67%,67%,2,4.0,4.5,4.5,9.0,9.0,2000.0,2.25
-João Félix,DL,Atlético,Disponible,100%,100%,3,4.666666666666667,7.666666666666667,6.666666666666667,20.0,20.0,11090.0,0.601
-Morata,DL,Atlético,Disponible,100%,100%,3,6.666666666666667,9.0,8.333333333333334,25.0,25.0,8420.0,0.99
-Carrasco,MC,Atlético,Disponible,33%,100%,3,2.0,3.6666666666666665,3.3333333333333335,10.0,10.0,5760.0,0.579
-Rodrigo de Paul,MC,Atlético,Disponible,33%,100%,3,0.6666666666666666,4.333333333333333,2.6666666666666665,8.0,8.0,3100.0,0.86
-Griezmann,DL,Atlético,Disponible,0%,100%,3,8.0,8.0,8.333333333333334,25.0,25.0,6830.0,1.22
-Ángel Correa,DL,Atlético,Disponible,0%,100%,3,0.6666666666666666,2.3333333333333335,1.6666666666666667,5.0,5.0,3380.0,0.493
-Matheus Cunha,DL,Atlético,Lesionado,0%,100%,3,1.3333333333333333,1.6666666666666667,1.6666666666666667,5.0,5.0,2450.0,0.68
-Rui Silva,PT,Betis,Disponible,100%,100%,3,4.666666666666667,7.333333333333333,6.333333333333333,19.0,19.0,3750.0,1.689
-Álex Moreno,DF,Betis,Disponible,100%,100%,3,4.666666666666667,3.3333333333333335,4.333333333333333,13.0,13.0,5070.0,0.855
-Edgar González,DF,Betis,Disponible,100%,100%,3,4.666666666666667,6.0,5.333333333333333,16.0,16.0,2670.0,1.998
-Pezzella,DF,Betis,Disponible,100%,100%,3,0.0,5.0,2.6666666666666665,8.0,8.0,2250.0,1.185
-Carvalho,MC,Betis,Duda próximo partido,100%,100%,3,6.0,6.333333333333333,6.666666666666667,20.0,20.0,4260.0,1.565
-Fekir,MC,Betis,Duda próximo partido,100%,100%,3,7.333333333333333,5.666666666666667,7.0,21.0,21.0,12250.0,0.571
-Guido Rodríguez,MC,Betis,Disponible,100%,100%,3,4.666666666666667,5.666666666666667,5.333333333333333,16.0,16.0,5150.0,1.036
-Rodrigo Sanchez,MC,Betis,Disponible,100%,100%,3,3.3333333333333335,2.6666666666666665,3.3333333333333335,10.0,10.0,1360.0,2.451
-Ruibal,MC,Betis,Disponible,100%,100%,3,3.3333333333333335,4.0,4.0,12.0,12.0,1380.0,2.899
-Borja Iglesias,DL,Betis,Disponible,100%,100%,3,11.333333333333334,12.0,12.0,36.0,36.0,10260.0,1.17
-Juanmi,DL,Betis,Disponible,100%,100%,3,8.0,6.333333333333333,7.666666666666667,23.0,23.0,8530.0,0.899
-Loren,DL,Betis,Disponible,0%,67%,2,1.0,2.5,2.0,4.0,4.0,210.0,9.524
+Oblak,PT,Atlético,Duda próximo partido,100%,100%,3,3.33,4.67,4.33,13.0,13.0,5690.0,0.761
+Nahuel Molina,DF,Atlético,Disponible,67%,67%,2,-1.0,2.5,1.0,2.0,2.0,3090.0,0.324
+Reinildo Mandava,DF,Atlético,Disponible,100%,100%,3,4.67,5.0,5.0,15.0,15.0,5000.0,1.0
+Savic,DF,Atlético,Lesionado,67%,67%,2,2.0,5.5,4.0,8.0,8.0,2620.0,1.527
+Axel Witsel,MC,Atlético,Disponible,100%,100%,3,6.0,4.67,5.33,16.0,16.0,5760.0,0.925
+Koke,MC,Atlético,Disponible,100%,100%,3,0.67,4.33,2.67,8.0,8.0,3480.0,0.767
+Lemar,MC,Atlético,Duda próximo partido,67%,100%,3,2.0,5.67,4.0,12.0,12.0,3170.0,1.262
+Llorente,MC,Atlético,Disponible,100%,100%,3,0.67,4.33,2.67,8.0,8.0,4760.0,0.561
+Saúl,MC,Atlético,Disponible,67%,67%,2,4.0,4.5,4.5,9.0,9.0,1980.0,2.273
+João Félix,DL,Atlético,Disponible,100%,100%,3,4.67,7.67,6.67,20.0,20.0,10940.0,0.61
+Morata,DL,Atlético,Disponible,100%,100%,3,6.67,9.0,8.33,25.0,25.0,8550.0,0.974
+Carrasco,MC,Atlético,Disponible,33%,100%,3,2.0,3.67,3.33,10.0,10.0,5720.0,0.582
+Rodrigo de Paul,MC,Atlético,Disponible,33%,100%,3,0.67,4.33,2.67,8.0,8.0,3060.0,0.873
+Griezmann,DL,Atlético,Disponible,0%,100%,3,8.0,8.0,8.33,25.0,25.0,6860.0,1.214
+Ángel Correa,DL,Atlético,Disponible,0%,100%,3,0.67,2.33,1.67,5.0,5.0,3320.0,0.503
+Matheus Cunha,DL,Atlético,Duda próximo partido,0%,100%,3,1.33,1.67,1.67,5.0,5.0,2360.0,0.708
+Rui Silva,PT,Betis,Disponible,100%,100%,3,4.67,7.33,6.33,19.0,19.0,3790.0,1.67
+Álex Moreno,DF,Betis,Disponible,100%,100%,3,4.67,3.33,4.33,13.0,13.0,5070.0,0.854
+Edgar González,DF,Betis,Disponible,100%,100%,3,4.67,6.0,5.33,16.0,16.0,2750.0,1.938
+Pezzella,DF,Betis,Disponible,100%,100%,3,0.0,5.0,2.67,8.0,8.0,2250.0,1.187
+Carvalho,MC,Betis,Duda próximo partido,100%,100%,3,6.0,6.33,6.67,20.0,20.0,4300.0,1.551
+Fekir,MC,Betis,Duda próximo partido,100%,100%,3,7.33,5.67,7.0,21.0,21.0,12100.0,0.579
+Guido Rodríguez,MC,Betis,Disponible,100%,100%,3,4.67,5.67,5.33,16.0,16.0,5200.0,1.025
+Rodrigo Sanchez,MC,Betis,Disponible,100%,100%,3,3.33,2.67,3.33,10.0,10.0,1340.0,2.485
+Ruibal,MC,Betis,Disponible,100%,100%,3,3.33,4.0,4.0,12.0,12.0,1400.0,2.857
+Borja Iglesias,DL,Betis,Disponible,100%,100%,3,11.33,12.0,12.0,36.0,36.0,10440.0,1.149
+Juanmi,DL,Betis,Disponible,100%,100%,3,8.0,6.33,7.67,23.0,23.0,8540.0,0.898
+Loren,DL,Betis,Disponible,0%,67%,2,1.0,2.5,2.0,4.0,4.0,200.0,10.0
 Juan Miranda,DF,Betis,Disponible,0%,33%,1,0.0,0.0,0.0,0.0,0.0,250.0,0.0
 Akouokou,MC,Betis,Disponible,0%,67%,2,0.0,1.5,1.0,2.0,2.0,150.0,6.667
-Édgar Badía,PT,Elche,Disponible,100%,100%,3,6.0,5.666666666666667,6.333333333333333,19.0,19.0,4090.0,1.548
-Bigas,DF,Elche,Disponible,100%,100%,3,3.3333333333333335,3.3333333333333335,3.3333333333333335,10.0,10.0,1180.0,2.825
-Enzo Roco,DF,Elche,Disponible,100%,100%,3,2.0,2.0,2.0,6.0,6.0,1290.0,1.55
-Helibelton Palacios,DF,Elche,Disponible,33%,67%,2,2.0,4.0,3.0,6.0,6.0,910.0,3.297
-Fidel,MC,Elche,Duda próximo partido,33%,33%,1,2.0,1.0,2.0,2.0,2.0,2640.0,0.758
-Gumbau,MC,Elche,Disponible,100%,100%,3,2.0,3.0,2.6666666666666665,8.0,8.0,1360.0,1.961
+Édgar Badía,PT,Elche,Disponible,100%,100%,3,6.0,5.67,6.33,19.0,19.0,4100.0,1.544
+Bigas,DF,Elche,Disponible,100%,100%,3,3.33,3.33,3.33,10.0,10.0,1190.0,2.798
+Enzo Roco,DF,Elche,Disponible,100%,100%,3,2.0,2.0,2.0,6.0,6.0,1280.0,1.562
+Helibelton Palacios,DF,Elche,Disponible,33%,67%,2,2.0,4.0,3.0,6.0,6.0,900.0,3.333
+Fidel,MC,Elche,Duda próximo partido,33%,33%,1,2.0,1.0,2.0,2.0,2.0,2620.0,0.763
+Gumbau,MC,Elche,Disponible,100%,100%,3,2.0,3.0,2.67,8.0,8.0,1350.0,1.978
 John Donald,MC,Elche,Disponible,33%,33%,1,-8.0,-6.0,-7.0,-7.0,-7.0,150.0,-46.667
-Omar Mascarell,MC,Elche,Disponible,100%,100%,3,3.3333333333333335,2.0,3.0,9.0,9.0,1780.0,1.685
-Pere Milla,DL,Elche,Disponible,33%,100%,3,2.0,3.6666666666666665,3.0,9.0,9.0,2390.0,1.255
-Roger,DL,Elche,Disponible,100%,100%,3,0.6666666666666666,3.0,2.3333333333333335,7.0,7.0,2580.0,0.904
+Omar Mascarell,MC,Elche,Disponible,100%,100%,3,3.33,2.0,3.0,9.0,9.0,1770.0,1.695
+Pere Milla,DL,Elche,Disponible,33%,100%,3,2.0,3.67,3.0,9.0,9.0,2370.0,1.266
+Roger,DL,Elche,Disponible,100%,100%,3,0.67,3.0,2.33,7.0,7.0,2560.0,0.91
 Diego González,DF,Elche,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,200.0,10.0
-Tete Morente,DL,Elche,Disponible,67%,100%,3,2.0,1.6666666666666667,2.0,6.0,6.0,870.0,2.299
-Josan,MC,Elche,Disponible,0%,67%,2,1.0,2.0,1.5,3.0,3.0,700.0,2.143
-Ezequiel Ponce,DL,Elche,Disponible,67%,100%,3,0.6666666666666666,3.0,2.0,6.0,6.0,560.0,3.571
-Iván Villar,PT,Celta,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,320.0,0.0
-Miguel Ángel Morro,PT,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Swedberg,MC,Celta,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,490.0,0.0
-Matija Nastasić,DF,Mallorca,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1500.0,0.0
-Isco,MC,Sevilla,Disponible,0%,67%,2,2.0,4.0,3.5,7.0,7.0,4040.0,0.866
-David Gil,PT,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Bernardo,DF,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1190.0,0.0
-Santi Comesaña,MC,Rayo Vallecano,Disponible,0%,33%,1,2.0,4.0,3.0,3.0,3.0,2290.0,1.31
-Narvaez,MC,Real Valladolid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1650.0,0.0
-Cenk Özkacar,DF,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,410.0,0.0
-Saveljich,DF,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,440.0,0.0
-Ferran Torres,DL,Barcelona,Disponible,33%,67%,2,1.0,2.5,2.0,4.0,4.0,3220.0,0.621
-Pjanic,MC,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,510.0,0.0
-Beñat Turrientes,MC,Real Sociedad,Disponible,0%,33%,1,2.0,3.0,3.0,3.0,3.0,150.0,20.0
-Canales,MC,Betis,Disponible,0%,33%,1,2.0,3.0,3.0,3.0,3.0,9870.0,0.304
-Gorosabel,DF,Real Sociedad,Disponible,33%,67%,2,2.0,3.5,3.0,6.0,6.0,1680.0,1.786
-Kike Saverio,DL,Osasuna,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Luis Milla,MC,Getafe,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3770.0,0.0
-Willian José,DL,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1600.0,0.0
-Joan Garcia,PT,Espanyol,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Carvajal,DF,Real Madrid,Disponible,33%,67%,2,1.0,2.5,2.0,4.0,4.0,3720.0,0.538
-Luiz Felipe,DF,Betis,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,3030.0,0.66
-Embarba,MC,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1620.0,0.0
-Diego Conde,PT,Getafe,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Pablo Torre,MC,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,490.0,0.0
-Cavani,DL,Valencia,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,7780.0,0.0
-Juanjo Nieto,DF,Almería,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Mariano,DL,Real Madrid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,470.0,0.0
-Dani Martín,PT,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Álvaro Fernández,PT,Espanyol,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2050.0,0.0
-Rubén Iranzo,DF,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Marcos André,DL,Valencia,Disponible,33%,67%,2,2.0,3.5,3.0,6.0,6.0,1790.0,1.676
-Masip,PT,Real Valladolid,Disponible,33%,33%,1,6.0,3.0,5.0,5.0,5.0,1120.0,4.464
-Mario Hernández,DF,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Jon Karrikaburu,DL,Real Sociedad,Disponible,0%,33%,1,2.0,3.0,3.0,3.0,3.0,770.0,3.896
-Nico Fernández,DF,Elche,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,630.0,0.0
-Domingos Quina,MC,Elche,Disponible,0%,67%,2,2.0,4.0,3.0,6.0,6.0,520.0,5.769
-Balenziaga,DF,Athletic,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,190.0,0.0
-Aridane Hernández,DF,Osasuna,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1340.0,0.0
-Bravo,PT,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,810.0,0.0
-Fuidias,PT,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Federico Fernández,DF,Elche,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1310.0,0.0
-Rubén Sánchez,MC,Espanyol,Disponible,67%,67%,2,6.0,5.0,5.5,11.0,11.0,2320.0,2.371
-Tino Kadewere,DL,Mallorca,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1660.0,0.0
-Gayà,DF,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3150.0,0.0
-Pastore,MC,Elche,Disponible,0%,33%,1,0.0,1.0,1.0,1.0,1.0,200.0,5.0
-Anuar,MC,Real Valladolid,Disponible,67%,67%,2,6.0,7.5,7.0,14.0,14.0,1450.0,4.828
-Camarasa,MC,Betis,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Lázaro,DL,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1910.0,0.0
-Puado,DL,Espanyol,Disponible,33%,67%,2,6.0,2.5,4.5,9.0,9.0,2020.0,2.228
-Budimir,DL,Osasuna,Disponible,33%,67%,2,4.0,4.0,4.5,9.0,9.0,2940.0,1.531
-Rubén García,MC,Osasuna,Disponible,0%,67%,2,2.0,4.0,3.5,7.0,7.0,2600.0,1.346
-Asensio,DL,Real Madrid,Disponible,0%,33%,1,0.0,3.0,2.0,2.0,2.0,1400.0,1.429
-Abdul Mumin,DF,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1190.0,0.0
-Lo Celso,MC,Villarreal,Disponible,67%,67%,2,4.0,4.5,4.5,9.0,9.0,6620.0,0.68
-Iñaki Peña,PT,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,160.0,0.0
-Sabaly,DF,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1360.0,0.0
-Ander Iru,PT,Athletic,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Denis Suárez,MC,Celta,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1400.0,0.0
-Marcão,DF,Sevilla,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1980.0,0.0
-Pol Lozano,MC,Espanyol,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Cala,DF,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Marko Milovanović,DL,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,230.0,0.0
+Tete Morente,DL,Elche,Disponible,67%,100%,3,2.0,1.67,2.0,6.0,6.0,870.0,2.299
+Josan,MC,Elche,Disponible,0%,67%,2,1.0,2.0,1.5,3.0,3.0,690.0,2.174
+Ezequiel Ponce,DL,Elche,Disponible,67%,100%,3,0.67,3.0,2.0,6.0,6.0,560.0,3.571
+Giménez,DF,Atlético,Disponible,33%,67%,2,2.0,4.5,3.5,7.0,7.0,3020.0,1.159
+Luiz Henrique,DL,Betis,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,3210.0,0.623
+Federico Fernández,DF,Elche,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1290.0,0.0
 Iván Martos,DF,Almería,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Morlanes,MC,Villarreal,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,250.0,0.0
-San Emeterio,MC,Cádiz CF,Disponible,0%,67%,2,0.0,2.5,1.5,3.0,3.0,270.0,5.556
-Álex Centelles,DF,Almería,Lesionado,0%,33%,1,-6.0,0.0,-3.0,-3.0,-3.0,190.0,-15.789
-De la Hoz,MC,Almería,Disponible,0%,33%,1,6.0,3.0,5.0,5.0,5.0,1370.0,3.65
-Melero,MC,Almería,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1660.0,0.0
-Giovanni González,DF,Mallorca,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Dominik Greif,PT,Mallorca,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Javi Hernández,DF,Girona,Disponible,0%,67%,2,2.0,2.5,2.5,5.0,5.0,940.0,2.66
-Bongonda,DL,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2360.0,0.0
-Toni Villa,MC,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1300.0,0.0
+Luca de la Torre,MC,Celta,Disponible,0%,33%,1,0.0,3.0,2.0,2.0,2.0,930.0,2.151
+Rubén Alcaraz,MC,Cádiz CF,Duda próximo partido,0%,0%,0,0.0,0.0,0.0,0.0,0.0,800.0,0.0
+Masip,PT,Real Valladolid,Disponible,33%,33%,1,6.0,3.0,5.0,5.0,5.0,1130.0,4.425
+Suso,DL,Sevilla,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1030.0,0.0
+Miguel Ángel Morro,PT,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Marcos André,DL,Valencia,Disponible,33%,67%,2,2.0,3.5,3.0,6.0,6.0,1780.0,1.685
+Antonio Blanco,MC,Cádiz CF,Disponible,33%,33%,1,-2.0,1.0,0.0,0.0,0.0,980.0,0.0
 Momo Mbaye,DF,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Gabriel Paulista,DF,Valencia,Disponible,33%,33%,1,6.0,5.0,6.0,6.0,6.0,2920.0,2.055
-Leo Baptistão,DL,Almería,Disponible,0%,67%,2,2.0,3.0,3.0,6.0,6.0,2270.0,1.322
-Alex Sola,DF,Real Sociedad,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,430.0,0.0
-Giménez,DF,Atlético,Disponible,33%,67%,2,2.0,4.5,3.5,7.0,7.0,2980.0,1.174
-Brian Ocampo,DL,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1110.0,0.0
-Javi Sánchez,DF,Real Valladolid,Disponible,67%,67%,2,0.0,3.5,2.0,4.0,4.0,400.0,5.0
-Iñigo Martínez,DF,Athletic,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3900.0,0.0
-Ander Herrera,MC,Athletic,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,4450.0,0.0
-Danjuma,DL,Villarreal,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,4310.0,0.0
-Houboulang Mendes,DF,Almería,Disponible,0%,33%,1,2.0,1.0,2.0,2.0,2.0,270.0,7.407
-Juanmi Latasa,DL,Getafe,Disponible,0%,33%,1,0.0,3.0,2.0,2.0,2.0,410.0,4.878
-Lekue,DF,Athletic,Disponible,33%,33%,1,6.0,8.0,7.0,7.0,7.0,530.0,13.208
-Kiko Femenía,DF,Villarreal,Disponible,0%,33%,1,2.0,3.0,3.0,3.0,3.0,1210.0,2.479
-Kondogbia,MC,Atlético,Disponible,33%,33%,1,-2.0,5.0,2.0,2.0,2.0,1750.0,1.143
+Tino Kadewere,DL,Mallorca,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1620.0,0.0
+Anuar,MC,Real Valladolid,Disponible,67%,67%,2,6.0,7.5,7.0,14.0,14.0,1470.0,4.762
+De Tomás,DL,Espanyol,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,5970.0,0.0
+Dominik Greif,PT,Mallorca,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Jordan Amavi,DF,Getafe,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2320.0,0.0
+Paulo Gazzaniga,PT,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1150.0,0.0
+Omar Alderete,DF,Getafe,Duda próximo partido,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1450.0,0.0
 Lucas Boyé,DL,Elche,Disponible,0%,67%,2,2.0,2.5,2.5,5.0,5.0,3600.0,0.694
-Verdú,DF,Elche,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,240.0,0.0
-Carlos Dominguez,DF,Celta,Disponible,0%,33%,1,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Pacheco,PT,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1380.0,0.0
-Montoya,DF,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Reguilón,DF,Atlético,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3570.0,0.0
-Carlos Fernández,DL,Real Sociedad,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,630.0,0.0
-Montiel,DF,Sevilla,Disponible,33%,33%,1,2.0,2.0,2.0,2.0,2.0,580.0,3.448
-El Bilal Touré,DL,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,650.0,0.0
-Agirrezabala,PT,Athletic,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,160.0,0.0
-Ez Abde,DL,Osasuna,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1710.0,0.0
-Luca de la Torre,MC,Celta,Disponible,0%,33%,1,0.0,3.0,2.0,2.0,2.0,940.0,2.128
-Munir,DL,Getafe,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,840.0,0.0
-Hermoso,DF,Atlético,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,490.0,0.0
-Rubén Alcaraz,MC,Cádiz CF,Duda próximo partido,0%,0%,0,0.0,0.0,0.0,0.0,0.0,810.0,0.0
-Odriozola,DF,Real Madrid,Duda próximo partido,0%,0%,0,0.0,0.0,0.0,0.0,0.0,330.0,0.0
-Clerc,DF,Elche,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,400.0,0.0
-Álex Fernández,MC,Cádiz CF,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,1530.0,1.307
-Gui,MC,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,190.0,0.0
-Reinier,MC,Girona,Disponible,0%,67%,2,2.0,2.5,2.5,5.0,5.0,1490.0,1.678
-Álvaro Giménez,DL,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Ibrahima Kébé,MC,Girona,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Paulo Gazzaniga,PT,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1180.0,0.0
-Ruiz de Galarreta,MC,Mallorca,Disponible,0%,33%,1,0.0,3.0,2.0,2.0,2.0,330.0,6.061
-Suso,DL,Sevilla,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1040.0,0.0
-Iza,DF,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,250.0,0.0
-Alejandro Balde,DF,Barcelona,Disponible,67%,67%,2,8.0,5.0,7.0,14.0,14.0,2670.0,2.622
-Feddal,DF,Real Valladolid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1580.0,0.0
-Guardado,MC,Betis,Disponible,0%,33%,1,0.0,0.0,0.0,0.0,0.0,220.0,0.0
-Borja García,MC,Girona,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,290.0,0.0
-Jorge Cuenca,DF,Villarreal,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,560.0,0.0
-Dani Gómez,DL,Espanyol,Disponible,0%,33%,1,0.0,2.0,1.0,1.0,1.0,1140.0,0.877
-Garrido,MC,Cádiz CF,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Pedrosa,DF,Espanyol,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1130.0,0.0
-Joaquín,MC,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,310.0,0.0
-Roberto Torres,MC,Osasuna,Disponible,0%,33%,1,0.0,3.0,2.0,2.0,2.0,510.0,3.922
-Bellerín,DF,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1920.0,0.0
-Piqué,DF,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1520.0,0.0
-Kevin Vázquez,DF,Celta,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,180.0,0.0
-Bebé,DL,Rayo Vallecano,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,210.0,9.524
-Pol Lirola,DF,Elche,Lesionado,67%,67%,2,0.0,3.5,2.0,4.0,4.0,1420.0,1.408
-Álex Collado,MC,Elche,Disponible,67%,67%,2,10.0,8.0,9.0,18.0,18.0,3650.0,2.466
-Andoni Zubiaurre,PT,Real Sociedad,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Militão,DF,Real Madrid,Disponible,67%,67%,2,2.0,4.0,3.0,6.0,6.0,6600.0,0.455
-Alberto Moreno,DF,Villarreal,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,220.0,0.0
-Keidi Bare,MC,Espanyol,Disponible,0%,67%,2,2.0,3.5,3.0,6.0,6.0,610.0,4.918
-Lass,MC,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Guevara,MC,Real Sociedad,Disponible en observación,0%,0%,0,0.0,0.0,0.0,0.0,0.0,170.0,0.0
-Sobrino,DL,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,600.0,0.0
 Pepe Reina,PT,Villarreal,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,500.0,0.0
-Álvaro Bastida,MC,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Rodrygo,DL,Real Madrid,Disponible,0%,33%,1,6.0,6.0,6.0,6.0,6.0,5000.0,1.2
-Mario Suárez,MC,Rayo Vallecano,Disponible,0%,33%,1,0.0,2.0,1.0,1.0,1.0,150.0,6.667
-Cristian Rivero,PT,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Pozo,DF,Almería,Disponible,33%,33%,1,6.0,8.0,7.0,7.0,7.0,1990.0,3.518
-Justin Kluivert,DL,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,4610.0,0.0
-Casilla,PT,Getafe,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,260.0,0.0
-Braian Cufré,DF,Mallorca,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,200.0,0.0
-Lunin,PT,Real Madrid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,200.0,0.0
-Amath,DL,Mallorca,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Aitor Fernández,PT,Osasuna,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,710.0,0.0
-De Tomás,DL,Espanyol,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,6170.0,0.0
-Guardiola,DL,Real Valladolid,Disponible,67%,67%,2,0.0,2.5,1.5,3.0,3.0,1200.0,1.25
-Malsa,MC,Real Valladolid,Disponible en observación,0%,0%,0,0.0,0.0,0.0,0.0,0.0,270.0,0.0
-Grbic,PT,Atlético,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,170.0,0.0
-Ilaix Moriba,MC,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,910.0,0.0
-Januzaj,MC,Sevilla,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2770.0,0.0
-Jesús Vallejo,DF,Real Madrid,Duda próximo partido,0%,0%,0,0.0,0.0,0.0,0.0,0.0,200.0,0.0
-Kenedy,MC,Real Valladolid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1710.0,0.0
-Leo Román,PT,Mallorca,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,160.0,0.0
-Jaume Doménech,PT,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,170.0,0.0
-Martin Svidersky,DF,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Juan Pérez,PT,Osasuna,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Jordan Amavi,DF,Getafe,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2360.0,0.0
-Dolberg,DL,Sevilla,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3090.0,0.0
-Pep Chavarría,DF,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1100.0,0.0
-Jordán,MC,Sevilla,Disponible,67%,67%,2,2.0,3.5,3.0,6.0,6.0,2650.0,1.132
-Umar Sadiq,DL,Real Sociedad,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,7160.0,0.0
-Gastón Álvarez,DF,Getafe,Disponible,33%,33%,1,2.0,4.0,3.0,3.0,3.0,220.0,13.636
-Weissman,DL,Real Valladolid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1760.0,0.0
-Koundé,DF,Barcelona,Disponible,33%,33%,1,6.0,10.0,8.0,8.0,8.0,7420.0,1.078
-Robert Navarro,MC,Real Sociedad,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,150.0,13.333
-Alexander Sørloth,DL,Real Sociedad,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3050.0,0.0
-Damián Suárez,DF,Getafe,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1540.0,0.0
-Dani García,MC,Athletic,Disponible,0%,33%,1,0.0,0.0,0.0,0.0,0.0,640.0,0.0
-Jon Pacheco,DF,Real Sociedad,Disponible,0%,33%,1,0.0,2.0,1.0,1.0,1.0,150.0,6.667
-Memphis Depay,DL,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1490.0,0.0
-Strand Larsen,DL,Celta,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,5110.0,0.0
-José Carlos Lazo,DL,Espanyol,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,260.0,0.0
-Oyarzabal,DL,Real Sociedad,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2430.0,0.0
-André Almeida,MC,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1990.0,0.0
-Víctor Ruiz,DF,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,180.0,0.0
-Werner,PT,Elche,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,180.0,0.0
-Luiz Henrique,DL,Betis,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,3250.0,0.615
-Trigueros,MC,Villarreal,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1830.0,0.0
-Óliver Torres,MC,Sevilla,Disponible,67%,67%,2,6.0,7.0,6.5,13.0,13.0,1350.0,4.815
-Braithwaite,DL,Espanyol,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1030.0,0.0
-Raúl Guti,MC,Elche,Disponible,0%,33%,1,6.0,4.0,5.0,5.0,5.0,980.0,5.102
-Manu Vallejo,DL,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,270.0,0.0
-Oriol Romeu,MC,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2990.0,0.0
+Kevin Vázquez,DF,Celta,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,180.0,0.0
+Asensio,DL,Real Madrid,Disponible,0%,33%,1,0.0,3.0,2.0,2.0,2.0,1380.0,1.449
+Iñigo Martínez,DF,Athletic,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3920.0,0.0
+Kenedy,MC,Real Valladolid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1760.0,0.0
+Damián Suárez,DF,Getafe,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1530.0,0.0
 Andrés Martín,DL,Rayo Vallecano,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Vencedor,MC,Athletic,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,1400.0,1.429
+Mario Hernández,DF,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Andoni Zubiaurre,PT,Real Sociedad,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Juanmi Latasa,DL,Getafe,Disponible,0%,33%,1,0.0,3.0,2.0,2.0,2.0,420.0,4.762
+Pastore,MC,Elche,Disponible,0%,33%,1,0.0,1.0,1.0,1.0,1.0,200.0,5.0
+Piqué,DF,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1500.0,0.0
+Gui,MC,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,190.0,0.0
+Grbic,PT,Atlético,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,180.0,0.0
+Bellerín,DF,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2170.0,0.0
+Amath,DL,Mallorca,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Lo Celso,MC,Villarreal,Disponible,67%,67%,2,4.0,4.5,4.5,9.0,9.0,6600.0,0.682
+Odriozola,DF,Real Madrid,Duda próximo partido,0%,0%,0,0.0,0.0,0.0,0.0,0.0,310.0,0.0
+Iza,DF,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,250.0,0.0
 Franco Russo,DF,Mallorca,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,180.0,0.0
-Omar Alderete,DF,Getafe,Duda próximo partido,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1460.0,0.0
-Ángel,DL,Mallorca,Duda próximo partido,0%,0%,0,0.0,0.0,0.0,0.0,0.0,640.0,0.0
-Aleix Vidal,DF,Espanyol,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,250.0,0.0
-Merquelanz,DL,Real Sociedad,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Capa,DF,Athletic,Disponible,0%,33%,1,0.0,0.0,0.0,0.0,0.0,320.0,0.0
-Dmitrovic,PT,Sevilla,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,250.0,0.0
-Felipe,DF,Atlético,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,260.0,0.0
-Mojica,DF,Villarreal,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,4200.0,0.0
-Morcillo,MC,Athletic,Disponible,0%,67%,2,0.0,0.5,0.5,1.0,1.0,150.0,3.333
-Diego López,PT,Rayo Vallecano,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1670.0,0.0
-Tanguy Nianzou,DF,Sevilla,Disponible,67%,67%,2,2.0,4.0,3.0,6.0,6.0,2770.0,1.083
-Randy Nteka,DL,Rayo Vallecano,Disponible,0%,67%,2,0.0,4.0,2.0,4.0,4.0,390.0,5.128
+Cristian Rivero,PT,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Cala,DF,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Alberto Moreno,DF,Villarreal,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,220.0,0.0
+Carlos Dominguez,DF,Celta,Disponible,0%,33%,1,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Abdul Mumin,DF,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1120.0,0.0
+Ez Abde,DL,Osasuna,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1880.0,0.0
+Melero,MC,Almería,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1680.0,0.0
+Canales,MC,Betis,Disponible,0%,33%,1,2.0,3.0,3.0,3.0,3.0,9940.0,0.302
+Giovanni González,DF,Mallorca,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Bernardo,DF,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1170.0,0.0
+Garrido,MC,Cádiz CF,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Montoya,DF,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Jesús Vallejo,DF,Real Madrid,Duda próximo partido,0%,0%,0,0.0,0.0,0.0,0.0,0.0,190.0,0.0
+Militão,DF,Real Madrid,Disponible,67%,67%,2,2.0,4.0,3.0,6.0,6.0,6590.0,0.455
+Pol Lirola,DF,Elche,Lesionado,67%,67%,2,0.0,3.5,2.0,4.0,4.0,1380.0,1.449
+Willian José,DL,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1620.0,0.0
+Javi Sánchez,DF,Real Valladolid,Disponible,67%,67%,2,0.0,3.5,2.0,4.0,4.0,400.0,5.0
+Guevara,MC,Real Sociedad,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,170.0,0.0
+Reinier,MC,Girona,Disponible,0%,67%,2,2.0,2.5,2.5,5.0,5.0,1480.0,1.689
+Mario Suárez,MC,Rayo Vallecano,Disponible,0%,33%,1,0.0,2.0,1.0,1.0,1.0,150.0,6.667
+Werner,PT,Elche,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,180.0,0.0
+Bebé,DL,Rayo Vallecano,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,210.0,9.524
+Víctor Ruiz,DF,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,180.0,0.0
+Lass,MC,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Rubén Iranzo,DF,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Ander Iru,PT,Athletic,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
 Iván Martín,MC,Girona,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
-Antonio Blanco,MC,Cádiz CF,Disponible,33%,33%,1,-2.0,1.0,0.0,0.0,0.0,1050.0,0.0
+Kike Saverio,DL,Osasuna,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Narvaez,MC,Real Valladolid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1610.0,0.0
+Pjanic,MC,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,500.0,0.0
+Clerc,DF,Elche,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,430.0,0.0
+Lekue,DF,Athletic,Disponible,33%,33%,1,6.0,8.0,7.0,7.0,7.0,580.0,12.069
+Álvaro Fernández,PT,Espanyol,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2050.0,0.0
+Jon Pacheco,DF,Real Sociedad,Disponible,0%,33%,1,0.0,2.0,1.0,1.0,1.0,150.0,6.667
+Oyarzabal,DL,Real Sociedad,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2430.0,0.0
+Fuidias,PT,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Isco,MC,Sevilla,Disponible,0%,67%,2,2.0,4.0,3.5,7.0,7.0,4030.0,0.868
+Álex Centelles,DF,Almería,Lesionado,0%,33%,1,-6.0,0.0,-3.0,-3.0,-3.0,190.0,-15.789
+José Carlos Lazo,DL,Espanyol,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,260.0,0.0
+Verdú,DF,Elche,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,240.0,0.0
+Marko Milovanović,DL,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,230.0,0.0
+David Gil,PT,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Kiko Femenía,DF,Villarreal,Disponible,0%,33%,1,2.0,3.0,3.0,3.0,3.0,1240.0,2.419
+Nico Fernández,DF,Elche,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,620.0,0.0
+Keidi Bare,MC,Espanyol,Disponible,0%,67%,2,2.0,3.5,3.0,6.0,6.0,610.0,4.918
+Robert Navarro,MC,Real Sociedad,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,150.0,13.333
+Dolberg,DL,Sevilla,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3080.0,0.0
+Gorosabel,DF,Real Sociedad,Disponible,33%,67%,2,2.0,3.5,3.0,6.0,6.0,1670.0,1.796
+Denis Suárez,MC,Celta,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1340.0,0.0
+Morcillo,MC,Athletic,Disponible,0%,67%,2,0.0,0.5,0.5,1.0,1.0,150.0,3.333
+Rodrygo,DL,Real Madrid,Disponible,0%,33%,1,6.0,6.0,6.0,6.0,6.0,5130.0,1.17
+Lunin,PT,Real Madrid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,200.0,0.0
+Justin Kluivert,DL,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,4630.0,0.0
+Januzaj,MC,Sevilla,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2880.0,0.0
+Braithwaite,DL,Espanyol,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1260.0,0.0
+Swedberg,MC,Celta,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,480.0,0.0
+Balenziaga,DF,Athletic,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,190.0,0.0
+Rubén Sánchez,MC,Espanyol,Disponible,67%,67%,2,6.0,5.0,5.5,11.0,11.0,2360.0,2.331
+Montiel,DF,Sevilla,Disponible,33%,33%,1,2.0,2.0,2.0,2.0,2.0,580.0,3.448
+Kondogbia,MC,Atlético,Disponible,33%,33%,1,-2.0,5.0,2.0,2.0,2.0,1730.0,1.156
+Koundé,DF,Barcelona,Disponible,33%,33%,1,6.0,10.0,8.0,8.0,8.0,7540.0,1.061
+Domingos Quina,MC,Elche,Disponible,0%,67%,2,2.0,4.0,3.0,6.0,6.0,520.0,5.769
+Cenk Özkacar,DF,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,400.0,0.0
+Juan Pérez,PT,Osasuna,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Brian Ocampo,DL,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1120.0,0.0
+Ferran Torres,DL,Barcelona,Disponible,33%,67%,2,1.0,2.5,2.0,4.0,4.0,3170.0,0.631
+Gayà,DF,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3200.0,0.0
+Cavani,DL,Valencia,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,7900.0,0.0
+Leo Román,PT,Mallorca,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,160.0,0.0
+Luiz Felipe,DF,Betis,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,3050.0,0.656
+Aridane Hernández,DF,Osasuna,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1320.0,0.0
+Iván Villar,PT,Celta,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,320.0,0.0
+Luis Milla,MC,Getafe,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3680.0,0.0
+Aleix Vidal,DF,Espanyol,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,250.0,0.0
+Borja García,MC,Girona,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,290.0,0.0
+Lázaro,DL,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1940.0,0.0
+Ángel,DL,Mallorca,Duda próximo partido,0%,0%,0,0.0,0.0,0.0,0.0,0.0,630.0,0.0
+André Almeida,MC,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1970.0,0.0
+Sobrino,DL,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,590.0,0.0
+Jorge Cuenca,DF,Villarreal,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,550.0,0.0
+Capa,DF,Athletic,Disponible,0%,33%,1,0.0,0.0,0.0,0.0,0.0,320.0,0.0
+Pozo,DF,Almería,Disponible,33%,33%,1,6.0,8.0,7.0,7.0,7.0,2020.0,3.465
+Weissman,DL,Real Valladolid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1810.0,0.0
+Pablo Torre,MC,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,480.0,0.0
+Ilaix Moriba,MC,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1030.0,0.0
+Carlos Fernández,DL,Real Sociedad,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,620.0,0.0
+Merquelanz,DL,Real Sociedad,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Pol Lozano,MC,Espanyol,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Alexander Sørloth,DL,Real Sociedad,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3070.0,0.0
+Agirrezabala,PT,Athletic,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,160.0,0.0
+Diego Conde,PT,Getafe,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Strand Larsen,DL,Celta,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,5100.0,0.0
+Bravo,PT,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,800.0,0.0
+Alejandro Balde,DF,Barcelona,Disponible,67%,67%,2,8.0,5.0,7.0,14.0,14.0,2860.0,2.448
+Embarba,MC,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1610.0,0.0
+Diego López,PT,Rayo Vallecano,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1640.0,0.0
+Beñat Turrientes,MC,Real Sociedad,Disponible,0%,33%,1,2.0,3.0,3.0,3.0,3.0,150.0,20.0
+Leo Baptistão,DL,Almería,Disponible,0%,67%,2,2.0,3.0,3.0,6.0,6.0,2250.0,1.333
+Iñaki Peña,PT,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,160.0,0.0
+Dani Gómez,DL,Espanyol,Disponible,0%,33%,1,0.0,2.0,1.0,1.0,1.0,1120.0,0.893
+Toni Villa,MC,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1290.0,0.0
+Braian Cufré,DF,Mallorca,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,200.0,0.0
+Pedrosa,DF,Espanyol,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1120.0,0.0
+Ruiz de Galarreta,MC,Mallorca,Disponible,0%,33%,1,0.0,3.0,2.0,2.0,2.0,350.0,5.714
+Pacheco,PT,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1360.0,0.0
+Mariano,DL,Real Madrid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,440.0,0.0
+Felipe,DF,Atlético,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,260.0,0.0
+Jaume Doménech,PT,Valencia,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,170.0,0.0
+Mojica,DF,Villarreal,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,4150.0,0.0
+Joaquín,MC,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,310.0,0.0
+Sabaly,DF,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1360.0,0.0
+Malsa,MC,Real Valladolid,Disponible en observación,0%,0%,0,0.0,0.0,0.0,0.0,0.0,270.0,0.0
+Saveljich,DF,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,430.0,0.0
+Carvajal,DF,Real Madrid,Disponible,33%,67%,2,1.0,2.5,2.0,4.0,4.0,3710.0,0.539
+Danjuma,DL,Villarreal,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,4250.0,0.0
+De la Hoz,MC,Almería,Disponible,0%,33%,1,6.0,3.0,5.0,5.0,5.0,1370.0,3.65
+Ander Herrera,MC,Athletic,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,4530.0,0.0
+Dani Martín,PT,Betis,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Aitor Fernández,PT,Osasuna,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,700.0,0.0
+Alex Sola,DF,Real Sociedad,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,420.0,0.0
+Ibrahima Kébé,MC,Girona,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Martin Svidersky,DF,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Álvaro Giménez,DL,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Santi Comesaña,MC,Rayo Vallecano,Disponible,0%,33%,1,2.0,4.0,3.0,3.0,3.0,2280.0,1.316
+Umar Sadiq,DL,Real Sociedad,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,7430.0,0.0
+Budimir,DL,Osasuna,Disponible,33%,67%,2,4.0,4.0,4.5,9.0,9.0,2930.0,1.536
+Jordán,MC,Sevilla,Disponible,67%,67%,2,2.0,3.5,3.0,6.0,6.0,2620.0,1.145
+Gastón Álvarez,DF,Getafe,Disponible,33%,33%,1,2.0,4.0,3.0,3.0,3.0,230.0,13.043
+Houboulang Mendes,DF,Almería,Disponible,0%,33%,1,2.0,1.0,2.0,2.0,2.0,270.0,7.407
+Memphis Depay,DL,Barcelona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1470.0,0.0
+Manu Vallejo,DL,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,320.0,0.0
+Dani García,MC,Athletic,Disponible,0%,33%,1,0.0,0.0,0.0,0.0,0.0,630.0,0.0
+Matija Nastasić,DF,Mallorca,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1480.0,0.0
+Casilla,PT,Getafe,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,260.0,0.0
+Trigueros,MC,Villarreal,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1830.0,0.0
+Pep Chavarría,DF,Rayo Vallecano,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1050.0,0.0
+Raúl Guti,MC,Elche,Disponible,0%,33%,1,6.0,4.0,5.0,5.0,5.0,1000.0,5.0
+Rubén García,MC,Osasuna,Disponible,0%,67%,2,2.0,4.0,3.5,7.0,7.0,2580.0,1.357
+Vencedor,MC,Athletic,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,1380.0,1.449
+Tanguy Nianzou,DF,Sevilla,Disponible,67%,67%,2,2.0,4.0,3.0,6.0,6.0,2750.0,1.091
+Oriol Romeu,MC,Girona,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3000.0,0.0
+Puado,DL,Espanyol,Disponible,33%,67%,2,6.0,2.5,4.5,9.0,9.0,2050.0,2.195
+Reguilón,DF,Atlético,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,3480.0,0.0
+Guardiola,DL,Real Valladolid,Disponible,67%,67%,2,0.0,2.5,1.5,3.0,3.0,1190.0,1.261
+Hermoso,DF,Atlético,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,480.0,0.0
+Dmitrovic,PT,Sevilla,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,250.0,0.0
+Óliver Torres,MC,Sevilla,Disponible,67%,67%,2,6.0,7.0,6.5,13.0,13.0,1400.0,4.643
+Randy Nteka,DL,Rayo Vallecano,Disponible,0%,67%,2,0.0,4.0,2.0,4.0,4.0,390.0,5.128
+Munir,DL,Getafe,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,980.0,0.0
+Marcão,DF,Sevilla,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1950.0,0.0
+Guardado,MC,Betis,Disponible,0%,33%,1,0.0,0.0,0.0,0.0,0.0,240.0,0.0
+San Emeterio,MC,Cádiz CF,Disponible,0%,67%,2,0.0,2.5,1.5,3.0,3.0,260.0,5.769
+Gabriel Paulista,DF,Valencia,Disponible,33%,33%,1,6.0,5.0,6.0,6.0,6.0,2920.0,2.055
+Álvaro Bastida,MC,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Jon Karrikaburu,DL,Real Sociedad,Disponible,0%,33%,1,2.0,3.0,3.0,3.0,3.0,740.0,4.054
+Feddal,DF,Real Valladolid,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,1560.0,0.0
+Javi Hernández,DF,Girona,Disponible,0%,67%,2,2.0,2.5,2.5,5.0,5.0,920.0,2.717
+Juanjo Nieto,DF,Almería,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Bongonda,DL,Cádiz CF,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,2190.0,0.0
+Álex Collado,MC,Elche,Disponible,67%,67%,2,10.0,8.0,9.0,18.0,18.0,3750.0,2.4
+Morlanes,MC,Villarreal,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,240.0,0.0
+Joan Garcia,PT,Espanyol,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+Camarasa,MC,Betis,Lesionado,0%,0%,0,0.0,0.0,0.0,0.0,0.0,150.0,0.0
+El Bilal Touré,DL,Almería,Disponible,0%,0%,0,0.0,0.0,0.0,0.0,0.0,810.0,0.0
+Álex Fernández,MC,Cádiz CF,Disponible,0%,33%,1,2.0,2.0,2.0,2.0,2.0,1510.0,1.325
+Roberto Torres,MC,Osasuna,Disponible,0%,33%,1,0.0,3.0,2.0,2.0,2.0,500.0,4.0

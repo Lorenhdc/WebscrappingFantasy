@@ -223,9 +223,9 @@ def elaboracion_df_compilados(df, tipo):
     
 
 def ultimos_retoques(df, df1, df2):
-   df['Promedio Picas'] = (df['Total Puntos Picas']/df['Total Jugado']).fillna(0)
-   df['Promedio Sofas'] = (df['Total Puntos Sofas']/df['Total Jugado']).fillna(0)
-   df['Promedio Media'] = (df['Total Puntos Medias']/df['Total Jugado']).fillna(0)
+   df['Promedio Picas'] = (df['Total Puntos Picas']/df['Total Jugado']).round(2).fillna(0)
+   df['Promedio Sofas'] = (df['Total Puntos Sofas']/df['Total Jugado']).round(2).fillna(0)
+   df['Promedio Media'] = (df['Total Puntos Medias']/df['Total Jugado']).round(2).fillna(0)
    df_v1 = pd.merge(df, df1)
    df_v2 = pd.merge(df_v1, df2, how='outer')
    df_v2['Estado'] = df_v2['Estado'].fillna('Disponible')
