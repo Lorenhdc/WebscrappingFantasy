@@ -230,10 +230,10 @@ def ultimos_retoques(df, df1, df2):
    df_v2 = pd.merge(df_v1, df2, how='outer')
    df_v2['Estado'] = df_v2['Estado'].fillna('Disponible')
    df_v2 ['Comparativo'] = round(df_v2['Promedio Media']/(df_v2['Valor [En miles]']/1000),3)
-   df_v2.drop(['Total Puntos Picas','Id', 'Total Puntos Sofas','Total Jugado','Titular', 'Jugado', 'Puntos Picas',
+   df_v2.drop(['Total Puntos Medias','Id', 'Total Puntos Sofas','Total Jugado','Titular', 'Jugado', 'Puntos Picas',
        'Puntos Sofas', 'Puntos Medias'], axis=1, inplace=True)
    df_v2 = df_v2.reindex(columns=['Nombre', 'Posicion', 'Equipo', 'Estado', '% Titular', '% Jugado', 'Forma Jugado','Promedio Picas',
-       'Promedio Sofas', 'Promedio Media', 'Total Puntos Medias', 'Forma Puntos Medias', 'Valor [En miles]', 'Comparativo'])
+       'Promedio Sofas', 'Promedio Media', 'Total Puntos Picas', 'Forma Puntos Medias', 'Valor [En miles]', 'Comparativo'])
    return df_v2
 
 def normalize(s):
